@@ -27,7 +27,7 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           deploy_key: ${{ secrets.ghpagesdk }}
-          external_repository: KoalaGeo/koalageo.github.io
+          external_repository: CGI-IUGS/cgi-iugs.github.io/
           publish_branch: master  # deploying branch
           publish_dir: ./public
           
