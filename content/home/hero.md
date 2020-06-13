@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Welcome to the Commission for the Management and Application of Geoscience Information (CGI)"
+title = "Commission for the Management and Application of Geoscience Information (CGI)"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "hero-academic.png"
