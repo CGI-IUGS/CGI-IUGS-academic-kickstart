@@ -6,6 +6,7 @@ summary: "A data standard for mineral resources and mining information"
 authors: [jouni-vuollo]
 tags: [active]
 categories: [active]
+featured: true
 date: 2020-06-12T11:49:44+01:00
 
 # Optional external URL for project (replaces project detail page).

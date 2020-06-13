@@ -6,6 +6,7 @@ summary: "A collaborative OGC-CGI working group for the GeoSciML geological data
 authors: [eric-boisvert]
 tags: [active]
 categories: []
+featured: true
 date: 2020-06-12T11:49:33+01:00
 
 # Optional external URL for project (replaces project detail page).
