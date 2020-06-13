@@ -49,5 +49,5 @@ hero_media = "hero-academic.png"
 
 Explore our website for resources about data sharing, standards, and best practice in geoscience information management.
 
-If you have any feedback, comments, or suggestions, please send them to us via our [Contact Us](/#contact) page.
+If you have any feedback, comments, or suggestions, please [Contact Us](/#contact).
 
