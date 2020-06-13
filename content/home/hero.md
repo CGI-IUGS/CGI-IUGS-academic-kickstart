@@ -33,9 +33,10 @@ hero_media = "hero-academic.png"
   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "center"  # Options include `left`, `center` (default), or `right`.
   image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
+  image_caption = "Photo by Lubo Minar on Unsplash"
   
   # Text color (true=light or false=dark).
-  text_color_light = false
+  text_color_light = true
 
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
