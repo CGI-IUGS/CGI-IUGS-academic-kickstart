@@ -3,7 +3,7 @@
 
 title: "Newsletter Issue 5"
 subtitle: "July 2017"
-summary: ""
+summary: "Welcome to Edition #5 of the CGI Newsletter. In this edition we report on the progress of the CGI Working Groups and the recent meetings of CGI members."
 authors: [admin]
 tags: [newsletter]
 categories: [newsletter]
@@ -34,6 +34,8 @@ projects: []
 ![Earth People Computers](/images/newsletters/earthPeopleComputers.jpg)
 
 Welcome to Edition #5 of the CGI Newsletter. In this edition we report on the progress of the CGI Working Groups and the recent meetings of CGI members.
+
+{{% toc %}}
 
 ## In This Issue
 

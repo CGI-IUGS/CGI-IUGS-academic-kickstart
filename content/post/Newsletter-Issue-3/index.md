@@ -3,7 +3,7 @@
 
 title: "Newsletter Issue 3"
 subtitle: "January 2015"
-summary: ""
+summary: "Welcome to Edition #3 of the CGI Newsletter. In this edition we particularly highlight the achievements of CGI members honoured with international awards in 2014."
 authors: [admin]
 tags: [newsletter]
 categories: [newsletter]
@@ -34,6 +34,8 @@ projects: []
 ![Earth People Computers](/images/newsletters/earthPeopleComputers.jpg)
 
 Welcome to Edition #3 of the CGI Newsletter. In this edition we particularly highlight the achievements of CGI members honoured with international awards in 2014.
+
+{{% toc %}}
 
 In This Issue
 
