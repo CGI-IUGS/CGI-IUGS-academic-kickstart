@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "EarthResourceML Working Group"
+title: "EarthResourceML"
 summary: "A data standard for mineral resources and mining information"
 authors: [jouni-vuollo]
 tags: [active]
