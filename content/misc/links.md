@@ -13,14 +13,45 @@ header:
   caption: ""
   image: ""
 ---
-Publications
-============
+# Standards
 
-*   [GeoSciML publications](https://www.seegrid.csiro.au/wiki/CGIModel/GeoSciMLPresentations)
-*   [EarthResourceML publications](https://www.seegrid.csiro.au/wiki/CGIModel/EarthResourceMLPresentations)
+CGI-developed data standards
 
-Useful geoscience information links
-===================================
+*   [GeoSciML](http://geosciml.org/)
+*   [EarthResourceML](http://earthresourceml.org/)
+
+OGC data standards
+
+*   [Full list of OGC standards](http://www.opengeospatial.org/standards)
+*   XML encoding standards that support GeoSciML and EarthResourceML
+    *   [Geography Markup Language](http://www.opengeospatial.org/standards/gml) (GML) - also published as ISO 19136
+    *   [Observations & Measurements (O&M)](http://www.opengeospatial.org/standards/om) - also published as ISO 19156
+    *   [SWE Common Data Model](http://www.opengeospatial.org/standards/swecommon)
+*   Web service interface specifications
+    *   [Web Map Service](http://www.opengeospatial.org/standards/wms) (WMS)
+    *   [Web Map Context](http://www.opengeospatial.org/standards/wmc) (WMC)
+    *   [Styled Layer Descriptor](http://www.opengeospatial.org/standards/sld) (SLD)
+    *   [Web Feature Service](http://www.opengeospatial.org/standards/wfs) (WFS)
+    *   [Filter Encoding](http://www.opengeospatial.org/standards/filter) (FES)
+    *   [Web Coverage Service](http://www.opengeospatial.org/standards/wcs) (WCS)
+    *   [Catalogue Services Specification](http://www.opengeospatial.org/standards/cat) (CSW)
+
+ISO data standards for Geographic Information/Geomatics (TC211)
+
+*   [Overview and introduction](http://www.isotc211.org/Outreach/Overview/Overview.htm)
+*   [Published standards](http://www.iso.org/iso/home/store/catalogue_tc/catalogue_tc_browse.htm?commid=54904)
+
+Ontologies, vocabularies, semantic web principles and technologies
+
+*   [CGI geoscience vocabularies](http://resource.geosciml.org/)
+
+*   [The Semantic Web](http://www.w3.org/standards/semanticweb/)
+*   [RDF - Resource Description Framework](http://en.wikipedia.org/wiki/Resource_Description_Framework)
+*   [SKOS - Simple Knowledge Organization System](http://www.w3.org/2004/02/skos/)[](http://en.wikipedia.org/wiki/Web_Ontology_Language)
+*   [OWL - Web Ontology Language](http://www.w3.org/TR/owl-features/)
+
+# Useful geoscience information links
+
 
 | International Professional    Organisations |  |
 |:-:|:-:|

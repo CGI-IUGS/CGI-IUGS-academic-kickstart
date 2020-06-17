@@ -44,13 +44,12 @@ user_groups:
 diagram: true
 ---
 
-CGI's mission
-==============
+# CGI's mission
 
 To foster the interoperability and exchange of geoscience information, by active community leadership, collaboration, education, and the development and promotion of geoscience information standards and best practice.
 
-CGI's vision
-=============
+# CGI's vision
+
 
 * that geoscience information can be exchanged, understood, and used without limitation,
 * that geoscience information can be readily integrated with standards-based information from other knowledge domains,
@@ -58,7 +57,32 @@ CGI's vision
 * that global education about the management, modelling, exchange, and use of geoscience information enables its best possible application,
 * for the benefit of all society.
 
-CGI Structure
-=============
+# CGI Structure
 
 ![CGI Structure](/img/CGI_Structure.jpg)
+
+# Our Partners
+
+## OneGeology
+
+![OneGeology logo](/img/onegeology.jpg)
+
+[OneGeology's](http://www.onegeology.org/) aim is to create dynamic digital geological map data for the world. It is an international initiative of the geological surveys of the world who are working together to achieve an ambitious and exciting venture. The OneGeology organisation endorses and uses the GeoSciML data transfer standard and has worked closely with CGI in providing a platform for the use and promotion of CGI data standards.
+
+## Open Geospatial Consortium (OGC)
+
+![OGC logo](/img/ogc_logo.jpg)
+
+CGI is a strong supporter of the open standards framework established by [OGC](http://www.opengeospatial.org/). CGI and OGC cooperate under a Memorandum of Understanding signed in 2013 under which the future development of GeoSciML will be undertaken in an OGC Standards Working Group (SWG).
+
+## Infrastructure for Spatial information in the European Community (INSPIRE)
+
+![INSPIRE logo](/img/inspire_logo.jpg)
+
+The [INSPIRE directive](http://inspire.ec.europa.eu/) have chosen CGI standards - GeoSciML and EarthResourceML - as the mandated European data transfer standards for geological and mineral resources information. The technical working groups of the INSPIRE directive have cooperated with CGI in the development of data standards and geoscience vocabularies.
+
+## US Geoscience Information Network (USGIN)
+
+![US GIN logo](/img/usgin.jpg)
+
+USGIN is an operational federated information-sharing framework that helps individuals and agencies develop scalable, interoperable, web-accessible data-sharing networks. USGIN participates in the development of standards, practices, and protocols through [ESIP](http://www.esipfed.org/), CGI and the [OGC](http://www.opengeospatial.org/), and deploys systems using these to exchange geoscientific data over the Internet using free-and-open-source software.
