@@ -31,36 +31,19 @@ projects: []
 
 »[View this newsletter as a PDF](/docs/CGI_newsletter_dec16.pdf)
 
-![Earth People Computers](/images/newsletters/earthPeopleComputers.jpg)
-
 Welcome to Edition #4 of the CGI Newsletter. In this edition we provide a look back at 2016 and a taste of what is to come in 2017.
 
 {{% toc %}}
 
-## In This Issue
-
-*   [GeoSciML - OGC Accreditation](#GeoSciML)
-*   [EarthResourceML Lite](#EarthResourceML-Lite)
-*   [IUGS Award - Steve Richard](#award)
-*   [Geoscience Vocabularies](#vocabularies)
-*   [A Successful 35th IGC](#IGC)
-*   [News from Africa](#Africa)
-*   [News from China](#China)
-*   [CGI Council News](#councilNews)
-*   [Upcoming Events](#events)
-*   [Meet Your CGI Councillors](#meetCouncillor)
-*   [Featured Project](#featuredProject)
-*   [Join Us on LinkedIn](#linkedIn)
-
 ## GeoSciML - OGC Accreditation
 
-[![GeoSciML logo](/images/GeoSciML.jpg)](http://www.geosciml.org/)
+[![GeoSciML logo](/img/GeoSciML.jpg)](http://www.geosciml.org/)
 
 The [GeoSciML](http://www.geosciml.org/) data transfer standard was recently accepted by a unanimous vote of the Open Geospatial Consortium (OGC) Technical Committee. This significant milestone cements GeoSciML's place as the international geological data transfer standard.
 
 Documentation and schemas for GeoSciML version 4.1 will be available on the OGC and www.geosciml.org websites early in 2017. Due to some changes required by the OGC review process, GeoSciML will move from version 4.0 to version 4.1. The most significant change in version 4.1 is the renaming of **GeoSciML-Portrayal** to **GeoSciML-Lite** to avoid confusion with use of the word 'portrayal' in other standards domains. The only other changes from version 4.0 to 4.1 are minor bug fixes and improvements to documentation.
 
-![OGC logo](/images/geosciml/ogc_logo.jpg)
+![OGC logo](/img/ogc_logo.jpg)
 
 The considerable documentation required for OGC accreditation was compiled by Eric Boisvert of the Geological Survey of Canada, with assistance from Ollie Raymond (Geoscience Australia) and Marcus Sen (British Geological Survey). Many thanks for a great effort!
 
@@ -68,13 +51,13 @@ The considerable documentation required for OGC accreditation was compiled by Er
 
 A new abridged, simple feature (WFS SF-0) version of the [EarthResourceML](http://www.earthresourceml.org/) data model was released by CGI in August 2016. EarthResourceML-Lite (or ERML-Lite) can be used to deliver simplified views on mineral occurrences and their commodities, mines, mining activities and mine waste products.
 
-![ERML logo](/images/erml-logo.jpg)
+![ERML logo](/img/erml-logo.jpg)
 
 ERML-Lite has a similar purpose to GeoSciML-Lite, in that it enables delivery of a simplified view of the full EarthResourceML model which can be used for exchange of data in simple formats that can be easily rendered in GIS applications and web mapping portals (e.g., WMS, simple WFS, shapefiles, CSV tables).
 
 ## 2016 IUGS Science Excellence Award
 
-![Dr Stephen  Richard](/images/steve_richard_home_page.jpg)
+![Dr Stephen  Richard](/img/steve_richard_home_page.jpg)
 
 Dr Stephen Richard, recently of the Arizona Geological Survey and now at Columbia University, USA, was awarded the 2016 IUGS Science Excellence Award in Geoscience Information at the 35th Intern-ational Geological Congress.
 
@@ -92,7 +75,7 @@ The Geoscience Terminology Working Group (GTWG) has been working away compiling 
 
 The important [Commodity Code vocabulary](http://resource.geosciml.org/static/vocabulary/earthresourceml/2016/) was compiled and adopted in 2015; a highly hierarchically organised vocabulary of 291 terms describing natural and processed earth resource commodities. This vocabulary is showcased in the [Minerals4EU Map Viewer](http://minerals4eu.brgm-rec.fr/minerals4EU/) web application for mineral commodities around Europe.
 
-![Minerals4EU Map Viewer](/images/minerals4EU.jpg)
+![Minerals4EU Map Viewer](/img/minerals4EU.jpg)
 
 The EarthResourceML vocabularies have been translated into 22 other European languages through the INSPIRE directive and these multi-lingual vocabularies will be adapted for delivery through the CGI vocabulary service. Many more vocabularies are still required, particularly for the Extension schema of the GeoSciML model.
 
@@ -100,7 +83,7 @@ The Working Group is always looking for more active members to contribute to com
 
 ## A Successful 35th IGC
 
-![IGC logo](/images/newsletters/igc2016.jpg)
+![IGC logo](/img/igc2016.jpg)
 
 A successful "Geoscience Data & Information Systems" symposium was held at the 35th International Geological Congress in Cape Town in August. Over 40 presentations were given on a wide range of digital geological data management, data analysis, and data delivery topics.
 
@@ -114,7 +97,7 @@ The [GIRAF Network](http://www.giraf-network.org/GIRAF2009/EN/Home/home_node.htm
 
 said Kristine.
 
-![26th Colloquium of African Geology (CAG26)](/images/giraf2016.jpg)
+![26th Colloquium of African Geology (CAG26)](/img/giraf2016.jpg)
 
 GIRAF was founded in 2009 as a platform for African geoscience information experts to share information and experience to understand the needs and issues in geoscience information management, delivery and technology in Africa. Its aim is to improve the environmental conditions and economic circumstances of Africa though the application of information technology based on geoscience data and information.
 
@@ -122,19 +105,19 @@ Since its inauguration, the network has been primarily supported by the German F
 
 ## News from China
 
-![Ollie and Kristine were hosted by Dr Zhang Minghua, Director of Geoinformation and Engineering at the CGS Development Research Center.](/images/ollieKristineZhang.jpg)
+![Ollie and Kristine were hosted by Dr Zhang Minghua, Director of Geoinformation and Engineering at the CGS Development Research Center.](/img/ollieKristineZhang.jpg)
 
 GeoSciML Standards Work-ing Group chair Ollie Raymond, and recent CGI Councillor Dr Kristine Asch visited the China Geological Survey (CGS) in Beijing in November to present a [series of talks on geoscience information standards](http://www.cgs.gov.cn/xwl/gjhz/201611/t20161116_416640.html). Ollie and Kristine were hosted by Dr Zhang Minghua, Director of Geoinformation and Engineering at the CGS Development Research Center.
 
-![The presentations were attended by 30 staff from the Beijing and provincial offices of the CGS.](/images/beijingTalk.jpg)
+![The presentations were attended by 30 staff from the Beijing and provincial offices of the CGS.](/img/beijingTalk.jpg)
 
 The presentations were attended by 30 staff from the Beijing and provincial offices of the CGS.
 
 ## CGI Council News
 
-A new [CGI Council for 2016–2020](/participation/council.html) was sworn in at the 35th International Geological Congress in Cape Town in September 2016. Founding CGI member and CGI Secretary-General, Kristine Asch, left the Council to take up a role as a Vice-President of IUGS. Thank you Kristine for your many years of commitment to CGI.
+A new CGI Council for 2016–2020 was sworn in at the 35th International Geological Congress in Cape Town in September 2016. Founding CGI member and CGI Secretary-General, Kristine Asch, left the Council to take up a role as a Vice-President of IUGS. Thank you Kristine for your many years of commitment to CGI.
 
-![CGI council 2016](/images/council/CGI_Council.jpg)
+![CGI council 2016](/img/CGI_Council.jpg)
 
 Kombada Mhopjeni (Namibia) and Zhang Minghua (China) were elected as joint Secretary-General, and Francois Robida (France) remains as CGI Council Chair. The Council also welcomed two new members, Tomasz Nałęcz (Poland) and Harvey Thorleifson (USA).
 
@@ -146,19 +129,19 @@ The CGI 2012–2016 four-year report was also submitted to the IUGS council at t
 
 CGI will hold its annual Standards Working Groups and Council meetings in conjunction with the 32nd annual [Geoscience Information Consortium](http://www.g-i-c.org/) (GIC) conference in Vienna, Austria, 29 May – 2 June, 2017.
 
-![A building in Vienna](/images/building-in-Vienna.jpg)
+![A building in Vienna](/img/building-in-Vienna.jpg)
 
 GIC is an international forum to exchange information among Geological Surveys Organisations (GSOs) related to the use and management of geoscience information systems in support of the earth sciences.
 
 ### Resources for Future Generations — Vancouver, June 2018
 
-![RFG 2018 logo](/images/rfg2018.jpg)
+![RFG 2018 logo](/img/rfg2018.jpg)
 
 CGI has begun planning to have a substantial presence at the [RFG 2018](http://rfg2018.org/) conference in Vancouver, Canada, 16–21 June 2018. IUGS is a partner organisation at this conference. The conference will be a forum for industry stakeholders to discuss their research initiatives and activities as well as the key issues and trends shaping the future of energy, minerals and water resources including the science of the earth that underpins their sustainable discovery and extraction.
 
 ## Meet Your CGI Councillors
 
-![Kombada Mhopjeni](/images/council/Kombada_Mhopjeni.JPG)
+![Kombada Mhopjeni](/img/Kombada_Mhopjeni.JPG)
 
 Kombada Mhopjeni is joint Secretary General of CGI, and is Chief Geologist in the Regional Geoscience Division in the Geological Survey of Namibia (GSN). At GSN, Kombada has been involved in several mapping projects including detailed geological mapping in the northern and central parts of Namibia. She has also assisted in the maintenance and standardisation of geoscience data at the Survey. Her research interests are in the geological application of remote sensing and geoscience data management. Kombada has an MSc (Geology) from the University of Western Australia. Since 2008, Kombada has served as a committee member of the Geological Society of Namibia and has been involved in the organisation of conferences and workshops, including GIC-26 held in Windhoek in 2011. Kombada has keen interest in geoscience outreach and has partaken in several outreach activities including the International Year of Planet Earth (IYPE). Contact compose('kkmhopjeni', 'mme', 'gov.na', 'Kombada'); .
 
@@ -166,18 +149,18 @@ Kombada Mhopjeni is joint Secretary General of CGI, and is Chief Geologist in th
 
 The Australian Geoscience Information Network (AusGIN) is a collaboration between the State, Territory and Commonwealth geological surveys of Australia. Its flagship is the [AusGIN Geoscience Portal](http://portal.geoscience.gov.au/) which delivers geoscience maps and data using OGC and CGI standards-based web services from all Australian governments through a single web mapping application.
 
-![AusGIN Portal](/images/ausginPortal.JPG)
+![AusGIN Portal](/img/ausginPortal.JPG)
 
 Datasets available through the Portal include mines and mineral occurrences, boreholes, mineral exploration tenements, geological maps, and supporting infrastructure data layers. The Portal also enables users to search for further data and publications from the metadata catalogs of six Australian geoscience agencies using ISO and OGC catalog web service standards (CSW).
 
 The Portal provides access to the National Virtual Core Library, a repository of high resolution photographic imagery and scanned hyperspectral data from borehole core. Users can view and analyse the hyperspectral data within the Portal interface or download the data for further analysis.
 
-![National Virtual Core Library](/images/National-Virtual-Core-Library.JPG)
+![National Virtual Core Library](/img/National-Virtual-Core-Library.JPG)
 
 AusGIN is an enthusiastic supporter of the CGI data transfer standards, GeoSciML and EarthResourceML. AusGIN plans to be using the new EarthResourceML-Lite data standard for mineral resources web services, and GeoSciML v4.1 for borehole web services in 2017.
 
 ## Join Us on LinkedIn
 
-[![LinkedIn logo](/images/linkedin.jpg)](https://www.linkedin.com/groups/6539642)
+[![LinkedIn logo](/img/linkedin.jpg)](https://www.linkedin.com/groups/6539642)
 
 We invite all CGI members to join our [LinkedIn group](https://www.linkedin.com/groups/6539642). The group provides a forum for CGI and LinkedIn members to connect with other geoscience professionals, post news of upcoming events, ask questions and discuss your issues.
