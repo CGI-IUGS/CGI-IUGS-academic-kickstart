@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Annual Report 2009"
-authors: []
+authors: [admin]
 date: 2009-07-01T11:10:10+01:00
 doi: ""
 

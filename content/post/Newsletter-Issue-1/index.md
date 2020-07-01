@@ -62,7 +62,7 @@ Version 2.0 of the CGI data standard for mineral occurrences and mines has been 
 
 ## GeoSciML-Portrayal version 2 released
 
-[![GeoSciML logo](/img/GeoSciML.jpg)](http://www.geosciml.org/)
+[![GeoSciML logo](/img/geosciml.jpg)](http://www.geosciml.org/)
 
 Version 2 of the GeoSciML-Portrayal simple features WFS data standard was released in August. The [schema](http://schemas.geosciml.org/geosciml-portrayal/2.0/) provides a simple attribute structure for digital map portrayal of geologic units, faults, contacts, and now borehole collar locations. GeoSciML-Portrayal is also recommended for use as an attribute standard for WMS web services. The data standard is endorsed by several international data sharing initiatives, including [OneGeology](http://www.onegeology.org/) and the [US Geoscience Information Network (USGIN)](http://usgin.org/). Find out [more information on GeoSciML-Portrayal](http://www.geosciml.org/#geosciml-portrayal).
 

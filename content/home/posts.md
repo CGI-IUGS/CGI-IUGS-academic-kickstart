@@ -35,6 +35,9 @@ subtitle = ""
      name = "Newsletter"
      tag = "newsletter"
   
+   [[content.filter_button]]
+     name = "Awards"
+     tag = "awards"
 
   # Choose how much pages you would like to display (0 = all pages)
   count = 5

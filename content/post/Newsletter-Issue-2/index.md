@@ -124,6 +124,6 @@ Mike is currently a USA representative on several international efforts relating
 
 ## Join Us on LinkedIn
 
-[![LinkedIn logo](/img/linkedIn.jpg)](https://www.linkedin.com/groups/6539642)
+[![LinkedIn logo](/img/linkedin.jpg)](https://www.linkedin.com/groups/6539642)
 
 We invite all CGI members to join our new [LinkedIn group](https://www.linkedin.com/groups/6539642). The group provides a forum for CGI and LinkedIn members to connect with other geoscience professionals, post news of upcoming events, ask questions and discuss your issues.

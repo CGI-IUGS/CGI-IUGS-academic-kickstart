@@ -1,19 +1,19 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "4YReport0811"
-authors: []
-date: 2020-07-01T11:11:55+01:00
+title: "Four Year Report 2008 - 2011"
+authors: [admin]
+date: 2011-07-01T11:11:55+01:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-07-01T11:11:55+01:00
+publishDate: 2011-07-01T11:11:55+01:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: /docs/CGI_four_year_report_2008-2011.pdf
 url_code:
 url_dataset:
 url_poster:

@@ -41,8 +41,8 @@ May and June was a busy time for many CGI members. Three of CGI's standards work
 
 ## GeoSciML Standards Working Group
 
-![GeoSciML logo](/img/GeoSciML.jpg)  
-![OGC logo](/img/geosciml/ogc_logo.jpg)
+![GeoSciML logo](/img/geosciml.jpg)  
+![OGC logo](/img/ogc_logo.jpg)
 
 The OGC/CGI GeoSciML Standards Working Group (SWG) held its [annual face-to-face meeting](http://external.opengeospatial.org/twiki_public/GeoSciMLswg/ViennaFace2FaceJune2017) at Geologische Bundesanstalt (Geological Survey of Austria) in Vienna in May. This was the first meeting since the GeoSciML v4.1 data standard was ratified and [published by OGC](http://www.opengeospatial.org/pressroom/pressreleases/2563) in March. All current documentation and schemas are now hosted on the [OGC website](http://www.opengeospatial.org/standards/geosciml). The original [CGI website](http://www.geosciml.org/) still maintains access to all historic versions of GeoSciML and links to other supporting resources like UML models and [vocabularies](http://resource.geosciml.org/).
 

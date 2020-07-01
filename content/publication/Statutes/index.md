@@ -1,19 +1,19 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Statutes"
-authors: []
-date: 2020-07-01T11:12:12+01:00
+title: "CGI Statutes"
+authors: [admin]
+date: 2005-01-01T11:12:12+01:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-07-01T11:12:12+01:00
+publishDate: 2005-01-01T11:12:12+01:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: /docs/CGI_Statutes_v2_Jan_2005.pdf
 url_code:
 url_dataset:
 url_poster:

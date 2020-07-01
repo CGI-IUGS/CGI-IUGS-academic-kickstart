@@ -37,7 +37,7 @@ Welcome to Edition #4 of the CGI Newsletter. In this edition we provide a look b
 
 ## GeoSciML - OGC Accreditation
 
-[![GeoSciML logo](/img/GeoSciML.jpg)](http://www.geosciml.org/)
+[![GeoSciML logo](/img/geosciml.jpg)](http://www.geosciml.org/)
 
 The [GeoSciML](http://www.geosciml.org/) data transfer standard was recently accepted by a unanimous vote of the Open Geospatial Consortium (OGC) Technical Committee. This significant milestone cements GeoSciML's place as the international geological data transfer standard.
 
@@ -83,7 +83,7 @@ The Working Group is always looking for more active members to contribute to com
 
 ## A Successful 35th IGC
 
-![IGC logo](/img/igc2016.jpg)
+![IGC logo](/img/IGC2016.jpg)
 
 A successful "Geoscience Data & Information Systems" symposium was held at the 35th International Geological Congress in Cape Town in August. Over 40 presentations were given on a wide range of digital geological data management, data analysis, and data delivery topics.
 
@@ -141,7 +141,7 @@ CGI has begun planning to have a substantial presence at the [RFG 2018](http://r
 
 ## Meet Your CGI Councillors
 
-![Kombada Mhopjeni](/img/Kombada_Mhopjeni.JPG)
+![Kombada Mhopjeni](/img/Kombada_Mhopjeni.jpg)
 
 Kombada Mhopjeni is joint Secretary General of CGI, and is Chief Geologist in the Regional Geoscience Division in the Geological Survey of Namibia (GSN). At GSN, Kombada has been involved in several mapping projects including detailed geological mapping in the northern and central parts of Namibia. She has also assisted in the maintenance and standardisation of geoscience data at the Survey. Her research interests are in the geological application of remote sensing and geoscience data management. Kombada has an MSc (Geology) from the University of Western Australia. Since 2008, Kombada has served as a committee member of the Geological Society of Namibia and has been involved in the organisation of conferences and workshops, including GIC-26 held in Windhoek in 2011. Kombada has keen interest in geoscience outreach and has partaken in several outreach activities including the International Year of Planet Earth (IYPE). Contact compose('kkmhopjeni', 'mme', 'gov.na', 'Kombada'); .
 

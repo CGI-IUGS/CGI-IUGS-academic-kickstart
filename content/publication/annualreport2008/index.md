@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Annualreport2008"
-authors: []
+title: "Annual Report 2008"
+authors: [admin]
 date: 2008-07-01T11:10:07+01:00
 doi: ""
 
