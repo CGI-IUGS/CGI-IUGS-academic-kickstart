@@ -42,7 +42,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Member
+
 ---
 Robert holds an MSc in Geochemistry and a PhD in Geoinformatics. Prior joining the European Commission in 2009 he worked for 13 years in the Czech Geological Survey (CGS). As CGS Deputy Director for Informatics from 2001, Robert was responsible for development, implementation and operation of company- to national-scale applications and GIS systems. He has also been involved in several EU projects helping to increase the interoperability of geoscience data and services, such as OneGeology-Europe, GEOMIND, and AEGOS. Robert was one of the founding members of the OneGeology global project, and is a member of the OneGeology Operational Management Group.
 
