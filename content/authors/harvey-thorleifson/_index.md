@@ -42,7 +42,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Member
+- Chair
 ---
 Harvey Thorleifson has been Director of the Minnesota Geological Survey, in the USA, since 2003. He is the Mapping Committee chair for the Association of American State Geologists, and a member of the US National Geospatial Advisory Committee. He was a member of the National Academy panel that prepared a report on the international role of the US Geological Survey, and a member of the team that launched OneGeology.
 
