@@ -33,12 +33,7 @@ social:
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
+#   icon_pack: aikazu-miyazaki@aist.go.jp
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
@@ -51,8 +46,18 @@ Kazuhiro has worked in GSJ for over 25 years, contributing to compilation of 1:5
 Contact details 
 ================
 
-Kazuhiro Miyazaki
-[Orgenic Processes Research Group](http://unit.aist.go.jp/igg/op-rg/)
+Kazuhiro Miyazaki - [Orgenic Processes Research Group](http://unit.aist.go.jp/igg/op-rg/)
+
+Geological Survey of Japan/AIST
+
+The Institute of Geology and Geoinformation
+
+Tsukuba Central 7
+
+1-1-1 Higashi
+
+Tsukuba, Ibaraki, 305-8567, Japan
 
 Telephone: +81-29-861-2390
+
 Fax: +81-29-861-3653

@@ -15,11 +15,14 @@ subtitle = ""
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups = ["Chair",
                  "Co-Secretary General",
-                 "Member"]
+                 "Treasurer", 
+                 "Website Admin",
+                 "Member",
+                 "Observer"]
 
 [design]
   # Show user's social networking links? (true/false)
-  show_social = false
+  show_social = true
 
   # Show user's interests? (true/false)
   show_interests = false

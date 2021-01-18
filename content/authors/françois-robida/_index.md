@@ -21,18 +21,7 @@ organizations:
 bio: 
 
 # List each interest with a dash
-interests:
-# - Interest 1
-# - Interest 2
 
-education:
-  courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -42,15 +31,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:f.robida@brgm.fr"  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/USERNAME
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=PERSON-ID
-- icon: github
-  icon_pack: fab
-  link: https://github.com/USERNAME
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -63,6 +44,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
+- Observer
 
 ---
 François Robida is the Deputy Head of Division, Information Systems and Technologies Division. Mining engineer and geostatistician, and has 25 years of experience in computer science applications to earth sciences with BRGM (French Geological Survey). Following his first work in mining geostatistics, he has been in charge of the design and development of software and programs related to all aspects of geology, and especially to 3D modelling. He was then been responsible for the BRGM software group, a team co-ordinating the development and marketing of software developed by BRGM. In his current position, he is in charge of the R&D and of the European projects in the domain of Information Systems for BRGM.
@@ -72,6 +54,14 @@ As "Terre Virtuelle" project leader (Terre Virtuelle / Virtual Earth is a BRGM R
 Contact details
 ====================================
 
-François Robida, BRGM, 3 avenue Claude-Guillemin, BP 36009, 45060 Orleans Cedex 2, France
+François Robida
+
+BRGM
+
+3 avenue Claude-Guillemin
+
+BP 36009, 45060 Orleans Cedex 2
+
+France
 
 Telephone: +33 2 38 64 31 32

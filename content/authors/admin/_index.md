@@ -50,7 +50,6 @@ To foster the interoperability and exchange of geoscience information, by active
 
 # CGI's vision
 
-
 * that geoscience information can be exchanged, understood, and used without limitation,
 * that geoscience information can be readily integrated with standards-based information from other knowledge domains,
 * that geoscience information is semantically rich and structured to enable seamless interaction in all environments,

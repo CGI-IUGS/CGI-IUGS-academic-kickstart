@@ -15,12 +15,12 @@ header:
 ---
 # Standards
 
-CGI-developed data standards
+## CGI-developed data standards
 
 *   [GeoSciML](http://geosciml.org/)
 *   [EarthResourceML](http://earthresourceml.org/)
 
-OGC data standards
+## OGC data standards
 
 *   [Full list of OGC standards](http://www.opengeospatial.org/standards)
 *   XML encoding standards that support GeoSciML and EarthResourceML
@@ -36,12 +36,12 @@ OGC data standards
     *   [Web Coverage Service](http://www.opengeospatial.org/standards/wcs) (WCS)
     *   [Catalogue Services Specification](http://www.opengeospatial.org/standards/cat) (CSW)
 
-ISO data standards for Geographic Information/Geomatics (TC211)
+## ISO data standards for Geographic Information/Geomatics (TC211)
 
 *   [Overview and introduction](http://www.isotc211.org/Outreach/Overview/Overview.htm)
 *   [Published standards](http://www.iso.org/iso/home/store/catalogue_tc/catalogue_tc_browse.htm?commid=54904)
 
-Ontologies, vocabularies, semantic web principles and technologies
+## Ontologies, vocabularies, semantic web principles and technologies
 
 *   [CGI geoscience vocabularies](http://resource.geosciml.org/)
 
@@ -50,7 +50,7 @@ Ontologies, vocabularies, semantic web principles and technologies
 *   [SKOS - Simple Knowledge Organization System](http://www.w3.org/2004/02/skos/)[](http://en.wikipedia.org/wiki/Web_Ontology_Language)
 *   [OWL - Web Ontology Language](http://www.w3.org/TR/owl-features/)
 
-# Useful geoscience information links
+## Useful geoscience information links
 
 
 | International Professional    Organisations |  |

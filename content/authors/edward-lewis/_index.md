@@ -20,24 +20,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: British-Australian Geologist, Standards Lead and FOSS advocate @BritGeoSurvey & a fan of @UKScouting
 
-interests:
-- Public Geoscience
-- Data Standards
-- Digital Strategy & Transformation
-- Free & Open Source Software
-- Resource Strategy & Policy
-- Exploration Geology
-- Geosemantics
-
-education:
-  courses:
-  - course: Post-Graduate Certificate in Geostatistics
-    institution: Edith Cowan University
-    year: 2015
-  - course: MGeol in Applied Geology
-    institution: University of Leicester
-    year: 2008
-
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -45,7 +27,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "edlew@bgs.ac.uk".
+  link: mailto:edlew@bgs.ac.uk  # For a direct email link, use "edlew@bgs.ac.uk".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/KoalaGeo
@@ -76,6 +58,7 @@ email: "eddlewis85@gmail.com"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
+- Website Admin
 - Member
 ---
 
@@ -84,3 +67,17 @@ Edd Lewis is the Standards Lead at the British Geological Survey, with responsib
 He is a member of the British Standard Insitute IST/36 Geographic Information committee, Association of Geotechnical and Geoenvironmental Specialists (AGS) AGS Data Format committee and contributor to ISO/TC 211 & OGC standards. 
 
 Edd is married with one child, and when not at work can be found, Scouting, canoing the waterways or at the archery range.  
+
+Contact Details
+===============
+
+Standards Lead
+
+British Geological Survey
+
+Nicker Hill, Keyworth
+
+Nottinghamshire, NG12 5GG
+
+UK
+

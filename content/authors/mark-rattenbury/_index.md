@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role:
+role: "Treasurer"
 
 # Organizations/Affiliations
 organizations:
-- name: 
-  url: ""
+- name: "GNS"
+  url: "https://www.gns.cri.nz/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -30,7 +30,7 @@ bio:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:chair.gtwg@gmail.com"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:m.rattenbury@gns.cri.nz"  # For a direct email link, use "mailto:test@example.org".
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -44,5 +44,22 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: 
+- Treasurer
 - Member
 ---
+Specialist in geological mapping, particularly of complexly deformed and metamorphosed basement terranes, including Archean rocks in Western Australia, Proterozoic rocks in Australia's Northern Territory, Paleozoic rocks in western Tasmania, Antarctica, and New Zealand's West Coast-NW Nelson, and Mesozoic rocks in central New Zealand. Applies geological knowledge to the support New Zealand mineral exploration and infrastructure industries. Led the QMAP 1:250 000 Geological Map of New Zealand programme to its conclusion in 2010 and currently lead GNS's Nationally Significant Databases and Collection research programme that includes ongoing geological mapping. Specialist in geological map data management and dissemination using 3D geological modelling and GIS software as well as web services. Actively involved in international CGI-IUGS working groups on geoscience terminology and geological data models. 
+
+Contact Details
+================
+
+Geologist & Program Leader
+
+GNS Science,
+
+1 Fairway Drive, Avalon 5010, 
+
+PO Box 30368, Lower Hutt 5040,
+
+New Zealand
+
+Telephone: +64 04 570 4697

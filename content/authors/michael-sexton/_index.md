@@ -1,25 +1,26 @@
 ---
 # Display name
-title: Christelle Loiselet
+title: "Michael Sexton"
 
-# Username (this should match the folder name)
+# Username (this should match the folder name and the name on publications)
 authors:
-- christelle-loiselet
-
+- "michael-sexton"
 
 # Is this the primary user of the site?
 superuser: false
 
-# Role/position
-role: Geologist modeller and 3D Information System
+# Role/position (e.g., Professor of Artificial Intelligence)
+role: Custodian, Mineral Deposits and Resources Database, Geoscience Australia
 
 # Organizations/Affiliations
 organizations:
-- name: BRGM   
-  url: "https://www.brgm.eu/"
+- name: "Geoscience Australia"
+  url: "https://www.ga.gov.au/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Christelle Loiselet currently works at the IT department of the French Geological Survey. Christelle does research in Geology and Geoinformation.
+bio: 
+
+# List each interest with a dash
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -28,8 +29,7 @@ bio: Christelle Loiselet currently works at the IT department of the French Geol
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:c.loiselet@brgm.fr"  # For a direct email link, use "mailto:test@example.org".
-
+  link: "mailto:michael.sexton@ga.gov.au"  # For a direct email link, use "mailto:test@example.org".
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -42,23 +42,25 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Member
+user_groups: 
+- ERML
+
 ---
 
-Christelle Loiselet currently works at the IT department of the French Geological Survey. Christelle does research in Geology and Geoinformation.
 
-Contact Details
-================
+Contact details
+=================
 
-Geologist modeler, Head of Unit
+Michael Sexton
 
-IT Division
+Team Lead - Information Management | Resources Division
 
-BRGM 
+Geoscience Australia
 
-3 Avenue C Guillemin - BP 36009
+Cnr Jerrabomberra Avenue and Hindmarsh Drive, Symonston, ACT
 
-4506 Orleans cedex 02, France
+Mailing Address: GPO Box 378, Canberra, ACT, Australia, 2601
 
-Telephone: +33 7 860 358 50
+Telephone: +61 2 6249 9575
+
+Fax: +61 2 6249 9971

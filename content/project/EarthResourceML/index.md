@@ -3,7 +3,7 @@
 
 title: "EarthResourceML"
 summary: "A data standard for mineral resources and mining information"
-authors: [jouni-vuollo]
+authors: [michael-sexton]
 tags: [active]
 categories: [active]
 featured: true
@@ -95,13 +95,12 @@ Working group
 
 The SWG contains members from all over the world, including:
 
-*   [Jouni Vuollo](mailto:jouni.vuollo@gtk.fi) (Chair; GTK, Finland)
+*   [Michael Sexton](mailto:michael.sexton@ga.gov.au) (Chair; GA, Australia)
 *   Daniel Cassard (BRGM, France)
 *   Tjerk Heijboer (GEUS, Denmark)
 *   James Passmore (BGS, UK)
 *   Mark Rattenbury (GNS, New Zealand)
 *   Oliver Raymond (Geoscience Australia)
-*   Mickael Sexton (Geoscience Australia)
 *   François Tertre (BRGM, France)
 *   plus other observers
 

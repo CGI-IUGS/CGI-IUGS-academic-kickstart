@@ -46,3 +46,28 @@ email: ""
 user_groups:
 - Member
 ---
+
+
+Development and implementation of OGC standards.
+
+Design of geoscience model (Groundwater Markup Language GWML, Geoscience Markup Language GeoSciML, WaterML 2.0) in international working groups.
+
+Development of interoperability architecture and implementation of systems.
+Semantic and syntaxic mediator over large datasets (WMS,WFS,SOS)
+
+Contact Details
+================
+
+Groundwater Geoscience Program Manager
+
+Geological Survey of Canada
+
+Natural Resources Canada
+
+490 de la Couronne, Québec, Canada
+
+G1K 9A9
+
+Tel. (418) 654-3705
+
+Fax (418) 654 2615

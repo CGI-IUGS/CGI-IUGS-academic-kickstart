@@ -29,7 +29,8 @@ bio:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "thorleif@umn.edu"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:thorleif@umn.edu"  # For a direct email link, use "mailto:test@example.org".
+  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -52,13 +53,21 @@ Contact details
 ================
 
 Harvey Thorleifson Ph.D., P.Geo., D.Sc
+
 Director, Minnesota Geological Survey
+
 State Geologist of Minnesota
+
 Professor, Department of Earth Sciences
+
 College of Science and Engineering
+
 University of Minnesota
+
 2609 West Territorial Road
+
 St Paul MN 55114-1009
+
 USA
 
 Telephone: +1 612-626-2150

@@ -15,7 +15,7 @@ autolink = true
 #   0: Disable email form
 #   1: Netlify (requires that the site is hosted by Netlify)
 #   2: formspree.io
-email_form = 2
+email_form = 0
 +++
 # Join CGI
 
@@ -27,3 +27,7 @@ CGI would like to have representatives in every country in the world and members
 
 CGI welcomes membership applications from all whose nations and organisations are part of [The International Union of Geological Sciences](http://www.iugs.org).
 
+Contact
+========
+
+For general enquiries or CGI membership please email - [CGI Secretariat](mailto:CGIsecretariat@mail.cgs.gov.cn)
