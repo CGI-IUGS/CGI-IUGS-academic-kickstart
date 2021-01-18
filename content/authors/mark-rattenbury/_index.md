@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: "Treasurer"
+role: "Programme Leader - GNS's Nationally Significant Databases and Collection Research"
 
 # Organizations/Affiliations
 organizations:

@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role:
+role: Groundwater Geoscience Program Manager
 
 # Organizations/Affiliations
 organizations:
-- name: 
-  url: ""
+- name: Geological Survey of Canada 
+  url: "https://www.nrcan.gc.ca/science-data/research-centres-labs/geological-survey-canada/17100"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
