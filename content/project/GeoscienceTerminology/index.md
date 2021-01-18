@@ -6,6 +6,7 @@ summary: "Developing multi-lingual vocabularies for geoscience data"
 authors: [mark-rattenbury]
 tags: [active]
 categories: []
+featured: true
 date: 2019-06-12T11:50:03+01:00
 
 # Optional external URL for project (replaces project detail page).
