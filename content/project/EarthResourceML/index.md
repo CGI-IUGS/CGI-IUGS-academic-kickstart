@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "EarthResourceML"
-summary: "A data standard for mineral resources and mining information"
+summary: "A CGI working group developing and publishing data standards for mineral resources and mining information"
 authors: [michael-sexton]
 tags: [active]
 categories: [active]
@@ -41,7 +41,7 @@ url_video: ""
 slides: ""
 ---
 
-[Join the EarthResourceML team](mailto:Jouni.Vuollo@gtk.fi?subject=Application%20to%20join%20the%20EarthResourceML%20Working%20Group)
+[Join the EarthResourceML team](mailto:michael.sexton@ga.gov.au?subject=Application%20to%20join%20the%20EarthResourceML%20Working%20Group)
 
 What is EarthResourceML?
 ------------------------

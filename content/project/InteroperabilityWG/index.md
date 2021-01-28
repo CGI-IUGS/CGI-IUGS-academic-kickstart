@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Interopability Working Group"
+title: "Interoperability Working Group"
 summary: "The Interoperability Working Group was formed to develop data standards to facilitate the query and exchange of geological information between data providers for environmental, scientific, legal and social purposes. "
 authors: []
 tags: [concluded]

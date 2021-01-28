@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Commission for the Management and Application of Geoscience Information (CGI)"
+title = "IUGS Commission for the Management and Application of Geoscience Information (CGI)"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = ""
@@ -50,5 +50,5 @@ hero_media = ""
 
 Explore our website for resources about data sharing, standards, and best practice in geoscience information management.
 
-If you have any feedback, comments, or suggestions, please [Contact Us](/#contact).
+
 

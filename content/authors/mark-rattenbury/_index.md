@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: "Programme Leader - GNS's Nationally Significant Databases and Collection Research"
+role: "Programme Leader, Nationally Significant Databases and Collections"
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://www.gns.cri.nz/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Working at GNS Science in New Zealand since 1993 with roles that have included field geologist, map compiler, GIS specialist, 3D modeller and programme leader.
 
 # List each interest with a dash
 
@@ -45,21 +45,20 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: 
 - Treasurer
-- Member
+#- Member
 ---
-Specialist in geological mapping, particularly of complexly deformed and metamorphosed basement terranes, including Archean rocks in Western Australia, Proterozoic rocks in Australia's Northern Territory, Paleozoic rocks in western Tasmania, Antarctica, and New Zealand's West Coast-NW Nelson, and Mesozoic rocks in central New Zealand. Applies geological knowledge to the support New Zealand mineral exploration and infrastructure industries. Led the QMAP 1:250 000 Geological Map of New Zealand programme to its conclusion in 2010 and currently lead GNS's Nationally Significant Databases and Collection research programme that includes ongoing geological mapping. Specialist in geological map data management and dissemination using 3D geological modelling and GIS software as well as web services. Actively involved in international CGI-IUGS working groups on geoscience terminology and geological data models. 
+Mark has been involved in geological mapping with GNS Science in New Zealand since 1993 with roles that have included field geologist, map compiler, GIS specialist, 3D modeller and programme leader. He applies geological mapping and data management knowledge to the support New Zealand mineral exploration, hazard identification and risk mitigation, infrastructure industries and wider science research. Mark currently leads GNS Science’s Nationally Significant Databases and Collections research programme that includes ongoing geological mapping and map information management as well as supporting key earthquake, geomagnetic, paleontology, groundwater, volcano and rock properties datasets. Mark advises internally, nationally and internationally on geoscience data management and dissemination, 3D geological modelling and web data services. He contributes to national science data initiatives, represents New Zealand in the Australasian Government Geoscience Information Committee and is actively involved in international CGI-IUGS working groups on geoscience terminology and geoscience data models. Mark has been the Chair of the Geoscience Terminology Working Group since 2014 and joined the CGI Council in 2020 taking the Treasurer role.
 
 Contact Details
 ================
 
-Geologist & Program Leader
+GNS Science
 
-GNS Science,
+PO Box 30368
 
-1 Fairway Drive, Avalon 5010, 
-
-PO Box 30368, Lower Hutt 5040,
+Lower Hutt
 
 New Zealand
 
-Telephone: +64 04 570 4697
+Telephone: +64 4 570 4697
+

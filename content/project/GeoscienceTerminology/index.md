@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Geoscience Terminology Working Group (GTWG)"
-summary: "Developing multi-lingual vocabularies for geoscience data"
+summary: "A CGI working group developing and publishing multi-lingual geoscience vocabularies"
 authors: [mark-rattenbury]
 tags: [active]
 categories: []
@@ -95,7 +95,7 @@ Initial vocabulary development typically begins with a spreadsheet compilation o
 How to lodge a Request for Change
 ---------------------------------
 
-A Request for Change refers to a proposal to modify an adopted existing CGI vocabulary or to propose a new geoscience vocabulary. The GTWG recognise that the adopted vocabularies will not always suit all user requirements and that needs of the wider geoscience community will evolve. Adopted vocabularies should be regarded as live working versions rather than irrevocably finalised. The GTWG will consider a Request for Change from groups or individuals outside of the working group. These Requests for Change can be sent to the working group via an email request to <chair.gtwg@gmailcom>. Alternatively a Request for Change can be sent to a GTWG member directly.
+A Request for Change refers to a proposal to modify an adopted existing CGI vocabulary or to propose a new geoscience vocabulary. The GTWG recognise that the adopted vocabularies will not always suit all user requirements and that needs of the wider geoscience community will evolve. Adopted vocabularies should be regarded as live working versions rather than irrevocably finalised. The GTWG will consider a Request for Change from groups or individuals outside of the working group. These Requests for Change can be sent to the working group via an email request to <chair.gtwg@gmail.com>. Alternatively a Request for Change can be sent to a GTWG member directly.
 
 Membership
 ----------

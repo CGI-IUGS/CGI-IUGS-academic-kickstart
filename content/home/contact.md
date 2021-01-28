@@ -27,6 +27,8 @@ CGI would like to have representatives in every country in the world and members
 
 CGI welcomes membership applications from all whose nations and organisations are part of [The International Union of Geological Sciences](http://www.iugs.org).
 
+If you have any feedback, comments, or suggestions, please [Contact Us](mailto:CGIsecretariat@mail.cgs.gov.cn?subject=Enquiries).
+
 Email Contact
 ==============
 

@@ -16,7 +16,7 @@
 [[main]]
   name = "Publications"
   url = "#publications"
-  weight = 25
+  weight = 35
 
 [[main]]
   name = "Working Groups"
@@ -31,7 +31,7 @@
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 65
 
 [[main]]
   name = "IUGS"
