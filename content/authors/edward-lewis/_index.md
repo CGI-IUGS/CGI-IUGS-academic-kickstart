@@ -62,9 +62,10 @@ user_groups:
 # - Member
 ---
 
-Edd Lewis is the Standards Lead at the British Geological Survey, with responsibity of improving the organisation and our partners data provision by using geospatial data standards to better align with FAIR data principles (& hopefully driving economic growth through improved data accessability...). 
+Edd Lewis is the Standards Lead at the British Geological Survey, with responsibility of improving the organisation and our partners data provision by using geospatial data standards to better align with FAIR data principles (& hopefully driving economic growth through improved data accessibility…).
 
-He is a member of the British Standard Insitute IST/36 Geographic Information committee, Association of Geotechnical and Geoenvironmental Specialists (AGS) AGS Data Format committee, MEDIN data standard committee and contributor to ISO/TC 211 & OGC standards. 
+He is a member of the British Standard Institute IST/36 Geographic Information committee, Association of Geotechnical and Geoenvironmental Specialists (AGS) AGS Data Format committee, MEDIN data standard committee and contributor to ISO/TC 211 & OGC standards.
+
 
 Contact Details
 ===============
