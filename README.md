@@ -35,3 +35,9 @@ XXXX
 **Edd Lewis**  
 CGI Webmaster  
 <edlew@bgs.ac.uk>  
+
+## Documenting the Documentation
+
+Some newsletters are written in Word but converted to Markdown built using Pandoc
+
+pandoc -s CGI_newsletter_May_2021.docx -t markdown -o userguide.md --extract-media=.
