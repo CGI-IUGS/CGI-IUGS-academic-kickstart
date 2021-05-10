@@ -7,8 +7,8 @@ summary: "Welcome to Edition #6 of the CGI Newsletter. In this edition we report
 authors: [admin]
 tags: [newsletter]
 categories: [newsletter]
-date: 2021-05-10T23:46:24+01:00
-lastmod: 2021-05-10T23:46:24+01:00
+date: 2021-05-09T23:46:24+01:00
+lastmod: 2021-05-09T23:46:24+01:00
 featured: false
 draft: false
 
@@ -85,95 +85,62 @@ Past chair, François Robida and councillors - Ollie Raymond and David Percy rem
 
 Since then the council held three business meetings addressing review of CGI grant proposals, status of CGI activities, increasing CGI visibility and membership in CGI working groups.
 
-![](/img/newsletter6/image3.png){width="3.3069444444444445in" height="1.4152777777777779in"}
+![CGI council business meeting in April 2021](/img/newsletter6/image3.png)
 
 CGI council business meeting in April 2021.
 
 ### Meet Your CGI Councillors
 
-**Harvey Thorleifson** is the new Chair of CGI. Since 2003, Harvey has been Director of the Minnesota Geological Survey in the USA, State Geologist of Minnesota, and Professor in the Department of Earth and Environmental Sciences at the University of Minnesota. His undergrad and Masters were completed in Canada, his PhD is from the University of Colorado in Boulder, and from 1986 to 2003, he was a Geological Survey of Canada research scientist.
+#### Harvey Thorleifson
 
-![Harvey Thorleifson](/img/newsletter6/image4.jpeg){width="1.8888888888888888in"
-height="2.361111111111111in"}
+The new Chair of CGI. Since 2003, Harvey has been Director of the Minnesota Geological Survey in the USA, State Geologist of Minnesota, and Professor in the Department of Earth and Environmental Sciences at the University of Minnesota. His undergrad and Masters were completed in Canada, his PhD is from the University of Colorado in Boulder, and from 1986 to 2003, he was a Geological Survey of Canada research scientist.
+
+![Harvey Thorleifson](/img/newsletter6/image4.jpeg)
 
 He is Information Committee Chair for the Association of American State Geologists (AASG), and he completed two terms with the US National Geospatial Advisory Committee. He was a member of a National Academy panel that prepared a report on the international role of the US Geological Survey, and he was a member of the team that launched OneGeology. Harvey was 2003-2004 President of the Geological Association of Canada, 2004-2006 President of the Canadian Geoscience Council, and 2012-2013 President of AASG.
 
 Harvey was excited to have joined CGI leadership in 2016, and is now pleased and humbled to follow Past CGI Chair François Robida, whose superb leadership will be a model for Harvey to aspire to. In his work, Harvey's focus has been on accelerating static-publication-based geological mapping, enhanced development of and adherence to standards, and accelerated provision of regularly-updated, seamless geological mapping databases assembled from many published geological maps. Contact [Harvey](mailto:thorleif@umn.edu).
 
-![](/img/newsletter6/image5.jpeg){width="2.06875in"
-height="1.551388888888889in"}**Christelle Loiselet** has a PhD in Earth
-Sciences from the University of Rennes. She is a geologist modeller with
-experience in 3D geodynamics modelling and basin modelling applied to
-georesources. Within BRGM, she works on 3D geological modelling and she
-manages a research project on 3D Geo Information Systems. For the past
-four years, she has lead the IT team working on developing IT systems to
-deliver geological and mineral resources information using standards
-such as O&M, GeoSciML and EarthRessourceML in national (RGF, BSS, Gaia
-Data, etc) and international projects (EPOS, GeoERA, Mineral4EU, etc).
-She is a member of the Form\@Ter executive board and she joined the CGI
-council in 2020. Contact [Christelle](mailto:C.Loiselet@bgrm.fr).
+#### Christelle Loiselet
 
-![](/img/newsletter6/image6.jpeg){width="1.6736111111111112in"
-height="1.6736111111111112in"}**Edd Lewis** is the Standards Lead at the
-British Geological Survey, with responsibility of improving the
-organisation and our partners data provision by using geospatial data
-standards to better align with FAIR data principles (& hopefully driving
-economic growth through improved data accessibility...).
+![Christelle Loiselet](/img/newsletter6/image5.jpeg)
 
- He is a member of the British Standard Institute IST/36 Geographic
-Information committee, Association of Geotechnical and Geoenvironmental
-Specialists (AGS) AGS Data Format committee, MEDIN data standard
-committee and contributor to ISO/TC 211 & OGC standards. Edd join the
-CGI council in 2020. Contact [Edd](mailto:edlew@bgs.ac.uk).
+Has a PhD in Earth Sciences from the University of Rennes. She is a geologist modeller with experience in 3D geodynamics modelling and basin modelling applied to georesources. Within BRGM, she works on 3D geological modelling and she manages a research project on 3D Geo Information Systems. For the past four years, she has lead the IT team working on developing IT systems to deliver geological and mineral resources information using standards such as O&M, GeoSciML and EarthRessourceML in national (RGF, BSS, Gaia Data, etc) and international projects (EPOS, GeoERA, Mineral4EU, etc). She is a member of the Form\@Ter executive board and she joined the CGI council in 2020. Contact [Christelle](mailto:C.Loiselet@bgrm.fr).
 
-CGI hosting DDE Standards Task Group
+#### Edd Lewis 
 
-CGI leads the work of the IUGS Deep-time Digital Earth (DDE) Standards
-Task Group (DDE-STG) on implementing the use of CGI standards and
-vocabularies by DDE and metadata for DDE. The CGI chair, Harvey
-Thorleifson, was appointed as the Principal Investigator (PI) for the
-DDE-STG with co-PIs Zhang Minghua, Alena Rybkina, François Robida, and
-Tim Duffy.
+![Edd Lewis](/img/newsletter6/image6.jpeg)
 
-Several CGI council members attended the DDE-STG meeting in January 2020
-in Beijing. Currently, Francois Robida is sustaining his role in DDE-STG
-supported by Zhang Minghua and Alena Rybkina (CODATA form Russia) as
-co-chairs.
+The Standards Lead at the British Geological Survey, with responsibility of improving the organisation and our partners data provision by using geospatial data standards to better align with FAIR data principles (& hopefully driving economic growth through improved data accessibility...).
 
-6th DDE Working Group Meeting at Suzhou
+He is a member of the British Standard Institute IST/36 Geographic Information committee, Association of Geotechnical and Geoenvironmental Specialists (AGS) AGS Data Format committee, MEDIN data standard committee and contributor to ISO/TC 211 & OGC standards. Edd join the CGI council in 2020. Contact [Edd](mailto:edlew@bgs.ac.uk).
 
-On 23-24 March 2021, co-leader of the DDE -STG Prof Zhang Minghua
-accompanied by STG members Dr Liu Rongmei, Dr Ren Wei and Dr Zhang Sheng
-attended the 6^th^ DDE working group meeting at Kunshan, Suzhou center
-of DDE with a parallel meetings on DDE Standards and Knowledge.
+### CGI hosting DDE Standards Task Group
 
-![](/img/newsletter6/image7.jpeg){width="3.2615660542432194in"
-height="2.0069444444444446in"}
+CGI leads the work of the IUGS Deep-time Digital Earth (DDE) Standards Task Group (DDE-STG) on implementing the use of CGI standards and vocabularies by DDE and metadata for DDE. The CGI chair, Harvey Thorleifson, was appointed as the Principal Investigator (PI) for the DDE-STG with co-PIs Zhang Minghua, Alena Rybkina, François Robida, and Tim Duffy.
 
-DDE Standards working group meeting at the DDE Suzhou center.
+Several CGI council members attended the DDE-STG meeting in January 2020 in Beijing. Currently, Francois Robida is sustaining his role in DDE-STG supported by Zhang Minghua and Alena Rybkina (CODATA form Russia) as co-chairs.
 
-Prof Zhang presented the DDE-STG work, achievements and 2021 work plan
-based on the DDE-STG annual proposal, submitted in November 2020, on
-behalf of the of DDE-STG. Four main activities for 2021 are:
+## DDE 
+
+### 6th DDE Working Group Meeting at Suzhou
+
+On 23-24 March 2021, co-leader of the DDE -STG Prof Zhang Minghua accompanied by STG members Dr Liu Rongmei, Dr Ren Wei and Dr Zhang Sheng attended the 6th DDE working group meeting at Kunshan, Suzhou center of DDE with a parallel meetings on DDE Standards and Knowledge.
+
+![](/img/newsletter6/image7.jpeg)
+
+### DDE Standards working group meeting at the DDE Suzhou center.
+
+Prof Zhang presented the DDE-STG work, achievements and 2021 work plan based on the DDE-STG annual proposal, submitted in November 2020, on behalf of the of DDE-STG. Four main activities for 2021 are:
 
 -   DDE knowledge system review report;
-
 -   Standards training courses;
-
 -   DDE metadata standard (draft version);
-
 -   Working Teams for DDE geosciences data standards.
 
-The discussions included coverage of a variety of issues/topics such as
-the DDE data and knowledge groups, geological timeline, global
-1:5million map, Eurasian margin sea and DDE-China and CODATA roles on
-open science facilities. Standards including metadata standards, DDE
-standards architecture, and disciplinary specified standards, etc were
-requested. These requests are critical and helpful, and will direct the
-work of the DDE-STG.
+The discussions included coverage of a variety of issues/topics such as the DDE data and knowledge groups, geological timeline, global 1:5million map, Eurasian margin sea and DDE-China and CODATA roles on open science facilities. Standards including metadata standards, DDE standards architecture, and disciplinary specified standards, etc were requested. These requests are critical and helpful, and will direct the work of the DDE-STG.
 
-![](/img/newsletter6/image8.jpeg){width="3.2708333333333335in"
-height="2.2538768591426073in"}
+![Prof Zhang](/img/newsletter6/image8.jpeg)
 
 *Prof Zhang at the DDE knowledge system group meeting.*
 
@@ -188,17 +155,15 @@ difference with CGI Geoscience Terminology to DDE-STG for a review.
 
 The meeting was attened by 43 scientists, 23 on site and 20 virtually.
 
-![](/img/newsletter6/image9.png){width="3.3069444444444445in"
-height="3.4069444444444446in"}CGI Website
+![](/img/newsletter6/image9.png)
+
+## CGI Website
 
 The CGI website received a fresh make-over from new councillor Edd
 Lewis. <https://cgi-iugs.org/>
 
-**Join Us on LinkedIn**
+## Join Us on LinkedIn
 
-![](/img/newsletter6/image10.png){width="1.15625in" height="1.15625in"}We invite
-all CGI members to join our [LinkedIn
-group](http://www.linkedin.com/groups?gid=6539642). The group provides a
-forum for CGI and LinkedIn members to connect with other geoscience
-professionals, post news of upcoming events, ask questions and discuss
-your issues.
+We invite all CGI members to join our [LinkedIn group](http://www.linkedin.com/groups?gid=6539642). The group provides a forum for CGI and LinkedIn members to connect with other geoscience professionals, post news of upcoming events, ask questions and discuss your issues.
+
+![LinkedIn](/img/newsletter6/image10.png){width="1.15625in" height="1.15625in"}
