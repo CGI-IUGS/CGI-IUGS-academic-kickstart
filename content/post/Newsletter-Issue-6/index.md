@@ -32,7 +32,7 @@ projects: []
 
 »[View this newsletter as a PDF](/docs/CGI_newsletter_May_2021.pdf)
 
-# CGI Supports Interoperabity projects**
+# CGI Supports Interoperabity projects
 
 In 2021 the CGI grant was awarded to two data interoperability projects of high relevance to CGI work:
 
@@ -44,12 +44,7 @@ A new publication will be released soon on Geology ontology (Brodaric and Richar
 
 ## Vocabulary Improvement Acceleration (British Geological Survey)
 
-> The project will update and then publish SKOS-RDF files for all
-> vocabularies with translated Multi-Lingual Thesaurus of Geosciences
-> terms and links added to related INSPIRE vocabularies. Github
-> architecture will be streamlined for vocabulary hosting, customised
-> vocprez instance and deployment to
-> <http://cgi.vocabs.ga.gov.au/vocab/>
+The project will update and then publish SKOS-RDF files for all vocabularies with translated Multi-Lingual Thesaurus of Geosciences terms and links added to related INSPIRE vocabularies. Github architecture will be streamlined for vocabulary hosting, customised vocprez instance and deployment to <http://cgi.vocabs.ga.gov.au/vocab/>
 
 # Upcoming Events
 
