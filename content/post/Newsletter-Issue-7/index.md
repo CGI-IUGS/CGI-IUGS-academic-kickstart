@@ -1,14 +1,14 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Newsletter Issue 6"
+title: "Newsletter Issue 7"
 subtitle: "May 2021"
-summary: "Welcome to Edition #6 of the CGI Newsletter. In this edition we report on the progress of the CGI Working Groups and the recent meetings of CGI members."
+summary: "Welcome to Edition #7 of the CGI Newsletter. In this edition we report on the progress of the CGI Working Groups and the recent meetings of CGI members."
 authors: [admin]
 tags: [newsletter]
 categories: [newsletter]
-date: 2021-05-09T23:46:24+01:00
-lastmod: 2021-05-09T23:46:24+01:00
+date: 2021-08-13T14:19:00+00:00
+lastmod: 2021-08-13T14:19:00+00:00
 featured: false
 draft: false
 
@@ -30,122 +30,92 @@ projects: []
 
 {{% toc %}}
 
-»[View this newsletter as a PDF](/docs/CGI_newsletter_May_2021.pdf)
+»[View this newsletter as a PDF](/docs/CGI_newsletter_August_2021.pdf)
 
-# CGI Supports Interoperabity projects
+# Overview of CGI activities – Harvey Thorleifson
 
-In 2021 the CGI grant was awarded to two data interoperability projects of high relevance to CGI work:
+![Harvey Thorleifson](/img/newsletter7/ht.png)
 
-## Docker Packages  (Geological Survey of Canada)
+CGI is the International Union of Geological Sciences (IUGS) Commission for the Management and Application of Geoscience Information. The goal of CGI is to foster the interoperability and exchange of geoscience information, through community leadership, collaboration, education, as well as development and promotion of standards and best practices. 
 
-The project will package ERML and GeoSciML service inside docker images. Containerisation, technology that allows to deploy self contained services and GeoSciML alternate encoding has been kick started with first assessment of issues.    Discussion material is published on OGC GitHub <https://github.com/opengeospatial/GeoSciML/blob/master/geojson/REAME.MD>
+On 23 June 2021, from 10 AM to Noon UTC, CGI hosted a webinar attended by 91 experts from around the world. 
 
-A new publication will be released soon on Geology ontology (Brodaric and Richard) developed under the project LOOP3D's Geoscience Knowledge manager.  The ontology (knowledge representation) is built on top on several initiatives, including GeoSciML model and GeoSciML vocabularies.  (<https://github.com/Loop3D/GKM>) . 
+![CGI Webinar participants](/img/newsletter7/webinar.png) 
+*CGI Webinar participants*
 
-## Vocabulary Improvement Acceleration (British Geological Survey)
+Harvey Thorleifson, Director of the Minnesota Geological Survey in the USA and CGI Chair, indicated that the objective of the webinar was to share updates on the work that CGI is carrying out with partners, and to hear discussion. He thanked partners who were mentioned in the six presentations that followed. Discussion and feedback indicated that the webinar was a great success. Videos are available on [YouTube](https://www.youtube.com/watch?v=_pXVKSWT17M&list=PLwnk6y1Q6xcZ2Ty2Akl1_sUY3Ob8Zocd9).
 
-The project will update and then publish SKOS-RDF files for all vocabularies with translated Multi-Lingual Thesaurus of Geosciences terms and links added to related INSPIRE vocabularies. Github architecture will be streamlined for vocabulary hosting, customised vocprez instance and deployment to <http://cgi.vocabs.ga.gov.au/vocab/>
+# Future Events
 
-# Upcoming Events
+On September 9, 2021, at 10 UTC, we will hold an informal technical seminar on geoscience ontology and knowledge graph, to be attended by members and friends of relevant working groups of CGI and partner organisations. If you wish to attend, please contact the CGI Chair at <mailto:thorleif@umn.edu>.
 
-CGI webinar on 23 June 2021 featuring the working groups:
+# OGC Geoscience Domain – Mickaël Beaufils 
 
--   GeoSciML Standards
--   EarthResourceML
--   Geoscience Terminology
--   CGI/OGC Geoscience Domain
--   Deep-time Digital Earth (DDE) Standards Task Group
+![Mickaël Beaufils](/img/newsletter7/mb.png) 
 
-# CGI Council News
+Mickael Beaufils of BRGM spoke as Chair of the Open Geospatial Consortium (OGC) Geoscience Domain Working Group (DWG), that partners with CGI and many other organizations in making spatial information findable, accessible, interoperable, and reusable (FAIR). 
 
-The CGI Council held its 2020 annual meeting via zoom in October. The councillors discussed council membership, activities for CGI funding in 2021 and the need to recruit and rejuvenate active membership.
+For findability, he cited persistent identifiers (PIDs), rich metadata, indexed data repositories, and PIDs in metadata; for accessibility, he cited standard communication protocols, open and free protocols, authentication where necessary, and metadata always available; for interoperability, he cited vocabularies, FAIR vocabularies, and linked metadata; and for reusability, he cited multiple attribute metadata, usage licenses, provenance, and community standards. 
 
--   better promotion of CGI activities and standards
+Key DWG goals are: interoperability, data definitions, formats, and services for publishing, search, and exchange; thematic/semantic coherence with related domains; interfaces with city/infrastructure and risk domains; showing value added by interoperability; best practices; and standards for spatial and temporal features, metadata, and other information. 
 
-New councillors joined CGI. The current council members are:
+Emphasis has been on the BhML borehole conceptual model, as well as (Geo)JSON(- LD), 3D-4D, BIM, geotechnics, ISO19156 for observations and measurements, OGC SensorThings API, OGC-API features, and SMART Data Loader. 
 
--   Harvey Thorleifson - Chair
--   Kombada Mhopjeni - Co-Secretary
--   Zhang Minghua - Co-Secretary
--   Mark Rattenbury -- Treasurer
--   Kazu Miyazaki
--   Christelle Loiselet
--   Eric Boisvert
--   Edd Lewis
+The DWG has been active since being conceived at Dublin in 2016; the next meeting is in September.
 
-Past chair, François Robida and councillors - Ollie Raymond and David Percy remain as observers.
+# GeoSciML – Éric Boisvert 
 
-Since then the council held three business meetings addressing review of CGI grant proposals, status of CGI activities, increasing CGI visibility and membership in CGI working groups.
+![Éric Boisvert](/img/newsletter7/eb.png) 
 
-![CGI council business meeting in April 2021](/img/newsletter6/image3.png)
-*CGI council business meeting in April 2021.*
+Éric Boisvert of the Geological Survey of Canada spoke on behalf of the OGC Standard Working Group (SWG) for GeoSciML (Geoscience Markup Language), an XML- and GML-based machine-readable format for geological maps that has been stable for almost two decades since emanating from work such as XMML, NADM, and G-XML. Although V1 in 2005 was monolithic, V2 in 2009 had properties grouped, with boreholes and fossils added. 
 
-## Meet Your CGI Councillors
+V3 in 2012 was packaged as 13 schemas, with themes added, OGC versions of some dependencies, custom elements dropped, external vocabularies, and explicit nil required. V4 in 2015, packaged as basic and extended, became OGC V4.1 in 2017, with reversion to optional properties, profiling, and Portrayal (Lite) integrated. The scope covers geology, including boreholes and specimens, with limited applicability to specialized domains, or symbology. 
 
-### Harvey Thorleifson
+GeoSciML Lite, based on simple features and thus comparable to a SHP file, is widely compatible, although with limited expressiveness, and thus limited to simple applications. Extensions include GroundwaterML2, EarthResourceML, and geotechnics for civil engineering. OGC, and thus GeoSciML, is transitioning from XML to JSON (OGC API); future work will address knowledge encoding such as RDF and ontologies.
 
-The new Chair of CGI. Since 2003, Harvey has been Director of the Minnesota Geological Survey in the USA, State Geologist of Minnesota, and Professor in the Department of Earth and Environmental Sciences at the University of Minnesota. His undergrad and Masters were completed in Canada, his PhD is from the University of Colorado in Boulder, and from 1986 to 2003, he was a Geological Survey of Canada research scientist.
+# EarthResourceML – Michael Sexton 
 
-![Harvey Thorleifson](/img/newsletter6/image4.jpeg)
+![Michael Sexton](/img/newsletter7/ms.png) 
 
-He is Information Committee Chair for the Association of American State Geologists (AASG), and he completed two terms with the US National Geospatial Advisory Committee. He was a member of a National Academy panel that prepared a report on the international role of the US Geological Survey, and he was a member of the team that launched OneGeology. Harvey was 2003-2004 President of the Geological Association of Canada, 2004-2006 President of the Canadian Geoscience Council, and 2012-2013 President of AASG.
+Michael Sexton of Geoscience Australia provided an overview of EarthResourceML (ERML), a markup language for the delivery of mineral occurrence, deposit, mining, and resource data that was initiated in 2006 as a collaboration between Australian state and federal agencies. The name was adopted and a CGI working group formed in 2010. 
 
-Harvey was excited to have joined CGI leadership in 2016, and is now pleased and humbled to follow Past CGI Chair François Robida, whose superb leadership will be a model for Harvey to aspire to. In his work, Harvey's focus has been on accelerating static-publication-based geological mapping, enhanced development of and adherence to standards, and accelerated provision of regularly-updated, seamless geological mapping databases assembled from many published geological maps. Contact [Harvey](mailto:thorleif@umn.edu).
+ERML is an extension of GeoSciML, with a mineral occurrence being a subtype of Geologic Feature; the mining feature types of ERML are not part of GeoSciML. 
 
-### Christelle Loiselet
+The earth resource concept encompasses geology, economics, environment, and society. Through international collaboration, ERML has a minimum set of features and attributes for describing and communicating information about earth resources in a standardized way. Nineteen CGI vocabularies include mine status, commodity, and reserves; data delivery and implementation are well accommodated. 
 
-![Christelle Loiselet](/img/newsletter6/image5.jpeg)
+ERML v3, which is near completion, has an improved resources model to represent resources as reported, addition of processing plants, and removal of mandatory attributes and relationships. ERML v3 will have GeoServer feature templating and a smart data loader, with JSON outputs.
 
-Has a PhD in Earth Sciences from the University of Rennes. She is a geologist modeller with experience in 3D geodynamics modelling and basin modelling applied to georesources. Within BRGM, she works on 3D geological modelling and she manages a research project on 3D Geo Information Systems. For the past four years, she has lead the IT team working on developing IT systems to deliver geological and mineral resources information using standards such as O&M, GeoSciML and EarthRessourceML in national (RGF, BSS, Gaia Data, etc) and international projects (EPOS, GeoERA, Mineral4EU, etc). She is a member of the Form\@Ter executive board and she joined the CGI council in 2020. Contact [Christelle](mailto:C.Loiselet@bgrm.fr).
+# CGI Geoscience Vocabularies – Mark Rattenbury 
 
-### Edd Lewis 
+![Mark Rattenbury](/img/newsletter7/mr.png)
 
-![Edd Lewis](/img/newsletter6/image6.jpeg)
+Mark Rattenbury of GNS Science in New Zealand, Te Pū Ao, spoke for the CGI Geoscience Terminology Working Group, which has been separate from the GeoSciML group since 2014, and which maintain lists of terms for earth features, properties, quantities, techniques, and processes that are collaboratively agreed upon and are widely accessible, including to machines. The terminology conveys unambiguous meaning, offers translations, reduces confusion, utilizes natural hierarchies, and supports data models. 
 
-The Standards Lead at the British Geological Survey, with responsibility of improving the organisation and our partners data provision by using geospatial data standards to better align with FAIR data principles (& hopefully driving economic growth through improved data accessibility...).
+The Working Group supports interoperability, develops and enables vocabularies, has 30 members in 16 countries, collaborates with partner groups, has had six face-to-face meetings, and has had much online interaction. A formal vocabulary development and adoption process is used. The vocabularies are somewhat FAIR, but there are many competing vocabularies. Ideally, CGI vocabularies will be better known and more widely used, because they are international, they support data models, and they are supported through enduring governance. Working Group priorities are to publish remaining vocabularies identified by working groups, update published vocabularies, add multilingual terms, and promote application of CGI vocabularies, especially in academic and industry contexts.
 
-He is a member of the British Standard Institute IST/36 Geographic Information committee, Association of Geotechnical and Geoenvironmental Specialists (AGS) AGS Data Format committee, MEDIN data standard committee and contributor to ISO/TC 211 & OGC standards. Edd join the CGI council in 2020. Contact [Edd](mailto:edlew@bgs.ac.uk).
+Challenges include aligning to international projects, finding time to make progress, and pandemic-related restrictions on travel.
 
-## CGI hosting DDE Standards Task Group
+# Loop GeoScience Ontology – Boyan Brodaric and Stephen Richard 
 
-CGI leads the work of the IUGS Deep-time Digital Earth (DDE) Standards Task Group (DDE-STG) on implementing the use of CGI standards and vocabularies by DDE and metadata for DDE. The CGI chair, Harvey Thorleifson, was appointed as the Principal Investigator (PI) for the DDE-STG with co-PIs Zhang Minghua, Alena Rybkina, François Robida, and Tim Duffy.
+![Boyan Brodaric](/img/newsletter7/bb.png)
 
-Several CGI council members attended the DDE-STG meeting in January 2020 in Beijing. Currently, Francois Robida is sustaining his role in DDE-STG supported by Zhang Minghua and Alena Rybkina (CODATA form Russia) as co-chairs.
+Boyan Brodaric of the Geological Survey of Canada, and Stephen Richard of the USGIN Foundation in USA, reported on GeoScience Ontology (GSO) research being conducted in association with Loop, an integrated and interoperable platform enabling 3D stochastic geological modeling. Knowledge management at present is a very active topic, due to the activities of Google, Amazon, Microsoft, and others. The Google Knowledge Graph initially released in 2016, the basis for their infobox, is built on a schema.org ontology, and a query API such as SPARQL.
 
-# DDE 
+The GSO incorporates a framework with entities, relations, and rules, as well as an OWL2 language. The GSO builds on NADM, GeoSciML, and DOLCE Rocks, and work in several ongoing projects. In association with GeoSciML, the activity includes, for example, an OWL conceptual schema and re-conceptualization, UML logical schema, XSD application schema, and XML instance documents.
 
-## 6th DDE Working Group Meeting at Suzhou
+Development will have to be broad and deep, modular, and standalone. The modular organization will be a layercake ontology, from common, to geology, to modules. Context dependency is an important concept, and relations include fundamental, spatial, temporal, and geological. Next steps include public feedback, knowledge repository testing, and integration with Loop 3D modeling code.
 
-On 23-24 March 2021, co-leader of the DDE -STG Prof Zhang Minghua accompanied by STG members Dr Liu Rongmei, Dr Ren Wei and Dr Zhang Sheng attended the 6th DDE working group meeting at Kunshan, Suzhou center of DDE with a parallel meetings on DDE Standards and Knowledge.
+# DDE Standards Task Group – Zhang Minghua
 
-![](/img/newsletter6/image7.jpeg)
+![Zhang Minghua](/img/newsletter7/zm.png)
 
-## DDE Standards working group meeting at the DDE Suzhou center.
+Zhang Minghua of the China Geological Survey, Co-Secretary General of CGI, described the work of the Deep-time Digital Earth Standards Task Group (DDE-STG). DDE is an IUGS big science program focused on data-driven discovery regarding the evolution of life, matter, geography, and climate. DDE will be an international consortium that will link databases, make data FAIR, unify earth science, and promote research.
 
-Prof Zhang presented the DDE-STG work, achievements and 2021 work plan based on the DDE-STG annual proposal, submitted in November 2020, on behalf of the of DDE-STG. Four main activities for 2021 are:
+The kickoff meeting at Beijing in February 2019 was attended by representatives of 40 geoscience organizations, and founding organizations signed an accord. The DDE roadmap encompasses the 2019 accord, formal launch in 2020, midterm reporting in 2024, and final reporting in 2028. For the geoscience knowledge system, DDE has adopted CGI terminology, and knowledge system graphs have been in development since 2019.
 
--   DDE knowledge system review report;
--   Standards training courses;
--   DDE metadata standard (draft version);
--   Working Teams for DDE geosciences data standards.
+The DDE-STG, now consisting of 28 leading professionals who held their first in-person meeting in January 2020, will now work in close collaboration with CGI and partners such as CODATA, to coordinate standards identification and development, survey stakeholders, develop the metadata standard based on ISO19115-2014(E), oversee review of the semantic knowledge system, provide advice to DDE working groups, provide training, and maintain the portfolio of standards.
 
-The discussions included coverage of a variety of issues/topics such as the DDE data and knowledge groups, geological timeline, global 1:5million map, Eurasian margin sea and DDE-China and CODATA roles on open science facilities. Standards including metadata standards, DDE standards architecture, and disciplinary specified standards, etc were requested. These requests are critical and helpful, and will direct the work of the DDE-STG.
+# Join Us 
 
-![Prof Zhang](/img/newsletter6/image8.jpeg)
-*Prof Zhang at the DDE knowledge system group meeting.*
+Please visit the CGI web site at https://cgi-iugs.org/, and if you aren’t a member, please click the Join Now button!
 
-At the parallel meeting of the DDE Knowledge Group, Prof Zhang replied on some common concerns about knowledge system/graph review procedure from DDE working groups, like sedimentology, paleogeography and petroleum geology working group, based on the first product of DDE-STG "Formal Review Procedures for the Geoscience Knowledge  System of IUGS Deep-time Digital Earth Program (version of Aug 28,2020)". Zhang asked these working groups to submit their comparison results of vocabulary difference with CGI Geoscience Terminology to DDE-STG for a review.
-
-The meeting was attened by 43 scientists, 23 on site and 20 virtually.
-
-# CGI Website
-
-![](/img/newsletter6/image9.png)
-
-The CGI website received a fresh make-over from new councillor Edd Lewis. <https://cgi-iugs.org/>
-
-# Join Us on LinkedIn
-
-We invite all CGI members to join our [LinkedIn group](http://www.linkedin.com/groups?gid=6539642). The group provides a forum for CGI and LinkedIn members to connect with other geoscience professionals, post news of upcoming events, ask questions and discuss your issues.
-
-![LinkedIn](/img/newsletter6/image10.png)
