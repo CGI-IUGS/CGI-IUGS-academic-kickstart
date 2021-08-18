@@ -34,6 +34,8 @@ projects: []
 
 # Overview of CGI activities – Harvey Thorleifson
 
+![Harvey Thorleifson](/img/newsletter7/ht.png)
+
 CGI is the International Union of Geological Sciences (IUGS) Commission for the Management and Application of Geoscience Information. The goal of CGI is to foster the interoperability and exchange of geoscience information, through community leadership, collaboration, education, as well as development and promotion of standards and best practices. 
 
 On 23 June 2021, from 10 AM to Noon UTC, CGI hosted a webinar attended by 91 experts from around the world. 
@@ -110,7 +112,7 @@ Development will have to be broad and deep, modular, and standalone. The modular
 Zhang Minghua of the China Geological Survey, Co-Secretary General of CGI, described the work of the Deep-time Digital Earth Standards Task Group (DDE-STG). DDE is an IUGS big science program focused on data-driven discovery regarding the evolution of life, matter, geography, and climate. DDE will be an international consortium that will link databases, make data FAIR, unify earth science, and promote research.
 
 The kickoff meeting at Beijing in February 2019 was attended by representatives of 40 geoscience organizations, and founding organizations signed an accord. The DDE roadmap encompasses the 2019 accord, formal launch in 2020, midterm reporting in 2024, and final reporting in 2028. For the geoscience knowledge system, DDE has adopted CGI terminology, and knowledge system graphs have been in development since 2019.
- 
+
 The DDE-STG, now consisting of 28 leading professionals who held their first in-person meeting in January 2020, will now work in close collaboration with CGI and partners such as CODATA, to coordinate standards identification and development, survey stakeholders, develop the metadata standard based on ISO19115-2014(E), oversee review of the semantic knowledge system, provide advice to DDE working groups, provide training, and maintain the portfolio of standards.
 
 # Join Us 
