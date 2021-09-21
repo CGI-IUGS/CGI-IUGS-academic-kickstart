@@ -12,7 +12,7 @@ GitHub actions builds the site from this repo to https://github.com/CGI-IUGS/cgi
 
 ### Running the site locally:
 
-To run locally, install hugo v0.70 extended edition
+To run locally, install hugo v0.70 extended edition.
 
 `hugo serve`
 
