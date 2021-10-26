@@ -29,6 +29,10 @@ projects: []
 ---
 # Information
 
+Free 3 day training event on open standards applicable to geoscience community 
+
+Session Chair: prof Zhang Minghua.  zminghua@mail.cgs.gov.cn
+
 Registration: https://www.wjx.top/vm/wFHGCwg.aspx
 
 Zoom meeting link: https://zoom.us/j/83452380461?pwd=U0plLytDRUZoWno2MEIyZWhBeEc1Zz09
@@ -36,7 +40,7 @@ Meeting ID : 834 5238 0461
 Meeting Code: ddestg
 Date: 8:00am 26th- 13:00pm 28th Oct. UTC time
 
-Session Chair: prof Zhang Minghua.  zminghua@mail.cgs.gov.cn
+
 
 # Agenda
 
