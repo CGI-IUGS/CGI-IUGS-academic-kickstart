@@ -3,7 +3,7 @@
 
 title: "Geoscience Standards Training for DDE"
 subtitle: "26 -28 Oct. 2021 Online in UTC Time"
-summary: ""
+summary: "Free 3 day training event on open standards applicable to geoscience community"
 authors: [admin]
 tags: [news]
 categories: [news]
