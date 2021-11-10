@@ -3,7 +3,7 @@
 
 title: "DDE Standards Task Group"
 summary: "A collaborative task group implementing geoscience information standards for IUGS’s flagship Deep-time Digital Earth Project"
-authors: [mark-rattenbury]
+authors: [zhang-minghua]
 tags: [active]
 categories: []
 featured: true
