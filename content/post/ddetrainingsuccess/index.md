@@ -39,7 +39,8 @@ Following the agenda on 26th Oct, Harvey Thorleifson presented a talk on Introdu
 
 At the closing ceremony, prof Harvey Thorleifson and prof Natarajan Ishwaran from DDE Executive Committee highly praised this training/workshop of great success both in systematically sharing in detail the tremendous knowledge, information, geoscience standards and current data sciences, including CGI, OGC, OneGeology, LOOP, CODATA, ISO/TC211 , 4D, linked data, and in its importance and great value to the IUGS DDE program. This training workshop will definitely help DDE WTGs greatly with standards and methodology in their work towards the data and knowledge driven discoveries in Earth science that implement DDE to achieve its goals.
 
-Video of this training workshop is available at DDE website: https:// 
+Video of this training workshop is available: 
+{{< youtube w7Ft2ymGmfc >}}
 
 ![Workshop screenshot](/img/ddetraining.jpg)
 A screen shot of the online geoscience standards training workshop 26-28 Oct 2021
