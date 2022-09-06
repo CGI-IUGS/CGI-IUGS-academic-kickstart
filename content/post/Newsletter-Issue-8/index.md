@@ -28,13 +28,15 @@ image:
 projects: []
 ---
 
+# Newsletter 9 | Issue 8 | August 2022
+
 {{% toc %}}
 
 »[View this newsletter as a PDF](/docs/CGI_newsletter_August_2022.pdf)
 
+{{% toc %}}
 
-
-# Feb 24th GeoInfo Summit – Harvey Thorleifson
+## Feb 24th GeoInfo Summit – Harvey Thorleifson
 
 ![GeoInfo Summit participants, May 19th](/img/newsletter8/01Zoom.jpg)
 
@@ -51,7 +53,7 @@ There were talks from CGI, CGI Work Groups, CGMW, Codata, DDE, Loop, OGC, OneGeo
 Harvey expressed appreciation to the speakers whose presentations are summarized here. Subsequently, on May 19th, a GeoInfo Summit discussion session was held.
 
 
-# CGI – François Robida
+## CGI – François Robida
 
 ![François Robida](/img/newsletter8/03FrancoisRobida.jpg)
 
@@ -64,7 +66,7 @@ François stressed the need to manage scientists’ tendency to over-specify com
 In 2022, he sees a need for renewed coordination among geoscience information organizations, in part by clarifying complementary roles, as well as with industry and academia, as we did in 2003, although we now have a new context such as semantic web, linked data, big data, AI, and 3D, and a need for us to coordinate with ocean and atmosphere. In closing, François stated that we can do nothing without standards.
 
 
-# CGI Work Groups – Harvey Thorleifson 
+## CGI Work Groups – Harvey Thorleifson 
 
 To praise superb work by CGI Work Groups and partner groups, Harvey presented a summary of the CGI webinar that had been held in June 2021, that is available on YouTube, and that was summarized in the August 2021 CGI Newsletter. He also mentioned the September 2021 technical seminar on geoscience ontology and knowledge graph that also is available on YouTube. In addition, he described the comprehensive, 15-hour DDE Geoscience Standards Training in October 2021, for which videos are available on the DDE web site. 
 
@@ -74,7 +76,7 @@ In addition, an OGC Standard Working Group (SWG) manages GeoSciML (Geoscience Ma
 
 The CGI Geoscience Terminology Working Group maintains terms for earth features, properties, quantities, techniques, and processes that are agreed upon and made widely accessible, including to machines. Geoscience ontology research is being conducted in association with Loop. The Deep-time Digital Earth (DDE) Standards Task Group (DDE-STG) is facilitating adoption of CGI standards and terminology by DDE, the first IUGS-recognized big science programme that was launched in 2019.
 
-# CGMW – Manuel Pubellier and Benjamin Sautter
+## CGMW – Manuel Pubellier and Benjamin Sautter
 
 ![Manuel Pubellier](/img/newsletter8/04ManuelPubellier.jpg)
 ![Benjamin Sautter](/img/newsletter8/05BenjaminSautter.jpg)
@@ -85,7 +87,7 @@ CGMW has several thematic sub-commissions, and an important role in preserving t
 
 An exciting and important current activity is a new 1:5M seamless geological map of the world, being produced in association with DDE, including much reconciliation aided by imagery and elevation databases, and updated bathymetry and seafloor geology, including mid-oceanic ridges, transforms, seafloor age, and hydrothermal vents. 
 
-# Codata – Alena Rybkina
+## Codata – Alena Rybkina
 
 ![Alena Rybkina](/img/newsletter8/06AlenaRybkina.jpg)
 
@@ -95,7 +97,7 @@ Codata has national committees, scientific union members, institutional members,
 
 Nevertheless, much cross-domain collaboration is quickening, to address current global grand challenges. Alena then outlined the FAIR guiding principles for scientific data management and stewardship, and a document on Turning FAIR into reality. The Codata data documentation initiative is a cross-domain integration collaboration designed to interface with other standards and to help interoperability between different data types, standards, and formats. 
 
-# DDE – Junxuan Fan
+## DDE – Junxuan Fan
 
 ![Junxuan Fan](/img/newsletter8/07JunxuanFan.jpg)
 
@@ -103,7 +105,7 @@ Junxuan Fan described DDE, for which the kick-off meeting was held at Beijing in
 
 DDE data-driven knowledge discovery is addressing: 1. Integrating a uniform high-resolution earth time system; 2. Origin and evolution of life and biodiversity; 3. How did sedimentary matter evolve and cycle?; 4. Reconstructing earth climate and atmosphere history from big data of multiple geochemical indices; 5. Global sea-level change through deep time; 6. Quantifying plate tectonics and deformation in 4D; 7. 4D architecture and evolution of deep-earth materials and dynamics; 8. Mineral evolution beyond 4D; 9. A globally shared big-data energy resource system for sustainable development; 10. Geophysical fields for prediction of seismic hazard.
 
-# Loop – Laurent Ailleres
+## Loop – Laurent Ailleres
 
 ![Laurent Ailleres](/img/newsletter8/08LaurentAilleres.jpg)
 
@@ -114,7 +116,7 @@ A milestone was reached recently with release of the GeoScience Ontology (GSO). 
 
 Plans for the future include Loop Vision, an interoperable, integrative, automated and update-able workflow to model geology based on structural geological rules and geophysics. A platform will integrate geophysical modelling/constraints upstream with structural geological modelling/constraints. Loop provides a means to characterize and mitigate uncertainty that will guide further data acquisition. The framework accommodates lithology, alteration, mineralogy, metallurgy, geotechnical parameters, and grades, allowing a better characterization of mining block and process optimization.
 
-# OGC – Mickaël Beaufils
+## OGC – Mickaël Beaufils
 
 ![Mickaël Beaufils](/img/newsletter8/09MickaëlBeaufils.jpg)
 
@@ -124,7 +126,7 @@ He outlined the OGC innovation continuum, in which an innovation cycle links to 
 
 Key DWG goals are interoperability, data definitions, formats, and services for publishing, search, and exchange; thematic/semantic coherence with related domains; interfaces with city/infrastructure and risk domains; showing value added by interoperability; best practices; and standards for spatial and temporal features, metadata, and other information. Emphasis has been on the BhML borehole conceptual model, as well as (Geo)JSON(- LD), 3D-4D, BIM, geotechnics, ISO19156 for observations and measurements, OGC SensorThings API, OGC-API features, and SMART Data Loader. Much emphasis is now on geotech interoperability.
 
-# OneGeology – Matt Harrison
+## OneGeology – Matt Harrison
 
 ![Matt Harrison](/img/newsletter8/10MattHarrison.jpg)
 
@@ -136,7 +138,7 @@ OneGeology is now migrating its focus to the application, technology and opportu
 
 These digital twin models will be an ensemble of 4D geospatial data, models, and visualizations. One of the key elements will be the cyber–physical interaction, whereby sensor perturbation monitored in the real world will ultimately be reflected within the virtual twin model in near-real time. A realistic model of the natural environment will provide new virtual opportunities to test and improve our understanding of these systems and to model and predict their behaviors into the future.
 
-# CGI renewal – Mark Rattenbury
+## CGI renewal – Mark Rattenbury
 
 ![Mark Rattenbury](/img/newsletter8/11MarkRattenbury.jpg)
 
@@ -150,7 +152,7 @@ He further described how CGI collaborates on focused projects; provides continui
 
 He then suggested that CGI should: assess the maturity of current geoscience information standards; identify opportunities that lie ahead in the geoscience information standards domain; signal what could be achieved in the next four years; signal what could be achieved in the next ten years; and identify collaborators and resources that could help achieve the goals.
 
-# GeoInfo Summit discussion session – Harvey Thorleifson
+## GeoInfo Summit discussion session – Harvey Thorleifson
 
 The 90-minute GeoInfo Summit discussion session on May 19th at 10 UTC was a great success. Partner organization leaders noted that technical challenges cannot be addressed by a single organization. We need to address societal challenges, to attract young people, and to work efficiently. Leaders stressed the importance of concrete products. We emphasized the need for a shared vision that we all can rally around. 
 
@@ -161,7 +163,7 @@ It was noted that a global solid earth digital twin would be inclusive of everyo
 
 In closing, Harvey Thorleifson noted that we are operating as a multi-agency network, so each agency would have to respect its governance. He suggested that we plan for additional multi-agency, online meetings in September, to take the next step in bringing the solid earth digital twin concept into focus, for example in coordination with DDE.
 
-# Future Events
+## Future Events
 
 **On September 20-21, 2022, for 90 minutes each day at 10 UTC, we will hold GeoInfo Summit Follow-Up, to be attended by leaders of global geoscience information organizations.** 
 
