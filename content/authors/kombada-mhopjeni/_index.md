@@ -40,15 +40,13 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Co-Secretary General
-
+#user_groups:
+#- Co-Secretary General
 ---
-
-Kombada Mhopjeni is Chief Geologist in the Regional Geoscience Division in the Geological Survey of Namibia (GSN) where she has worked since 2004. During her tenure she has been involved in several mapping projects including detailed geological mapping in the northern and central parts of Namibia. She has also assisted in the maintenance and standardisation of geoscience data at the Survey. Her research interests are on the geological application of remote sensing and geoscience data management. She has an MSc (Geology) from the University of Western Australia. Since 2008, Kombada has served as a committee member of the Geological Society of Namibia and has been involved in the organisation of conferences and workshops, including GIC-26 held in Windhoek in 2011. Kombada has keen interest in geoscience outreach and has partaken in several outreach activities including the International Year of Planet Earth (IYPE). 
+Kombada Mhopjeni is Chief Geologist in the Regional Geoscience Division in the Geological Survey of Namibia (GSN) where she has worked since 2004. During her tenure she has been involved in several mapping projects including detailed geological mapping in the northern and central parts of Namibia. She has also assisted in the maintenance and standardisation of geoscience data at the Survey. Her research interests are on the geological application of remote sensing and geoscience data management. She has an MSc (Geology) from the University of Western Australia. Since 2008, Kombada has served as a committee member of the Geological Society of Namibia and has been involved in the organisation of conferences and workshops, including GIC-26 held in Windhoek in 2011. Kombada has keen interest in geoscience outreach and has partaken in several outreach activities including the International Year of Planet Earth (IYPE).
 
 Contact details
-================
+===============
 
 Kombada Mhopjeni
 

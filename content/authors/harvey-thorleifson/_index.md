@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: "Director, Minnesota Geological Survey"
+role: "Professor, University of Minnesota"
 
 # Organizations/Affiliations
 organizations:
@@ -50,7 +50,7 @@ Harvey Thorleifson has been Director of the Minnesota Geological Survey, in the 
 Harvey was 2012–2013 President of the Association of American State Geologists (AASG), 2004–2006 President of what is now the Canadian Federation of Earth Sciences, and 2003–2004 President of the Geological Association of Canada. From 1986 to 2003, he was a Geological Survey of Canada research scientist. He holds a Ph.D. from the University of Colorado.
 
 Contact details
-================
+===============
 
 Harvey Thorleifson Ph.D., P.Geo., D.Sc
 
