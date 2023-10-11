@@ -28,12 +28,6 @@ See the [local copy of the license deed](LICENSE) for details.
 
 ## Support and contacts
 
-*For website content:*
-**XXXXX**
-XXXXX
-XXXX
-`<XXXX>`
-
 *For website technical matters:*
 **Edd Lewis**
 CGI Webmaster
