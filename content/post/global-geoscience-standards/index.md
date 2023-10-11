@@ -28,26 +28,22 @@ image:
 projects: []
 ---
 
-# Meetings on the Status and Future of Global Geoscience Information Standards
-
-»[View this newsletter as a PDF](/docs/Meetings_Suzhou_Nov2023.pdf)
-
 {{% toc %}}
+
+»[View this article as a PDF](/docs/Meetings_Suzhou_Nov2023.pdf)
 
 CGI in partnership with IUGS’s Deep-time Digital Earth Project are hosting in-person meetings in Suzhou, China, 7-10 November 2023, on the Status and Future of Global Geoscience Information Standards.
 
 There are two meetings, described in more detailed below:
 
-- 7-8 November - Geoscience Information Standards for DDE Workshop
-- 9-10 November - Future Geoscience Information Standards Forum (invitation only)
-
-These will be followed by a CGI Council Meeting on the afternoon of 10
-November.
+- 7 - 8 November - Geoscience Information Standards for DDE Workshop
+- 9 - 10 November - Future Geoscience Information Standards Forum **(invitation only)**
+- 10 November CGI Council Meeting
 
 For more information on these meetings contact [<u>Dr Zhang
 Minghua</u>](https://cgi-iugs.org/author/dr-zhang-minghua/)
 
- ## 7-8 November 2023 - Geoscience information standards for DDE Workshop
+ ## Geoscience information standards for DDE Workshop - 7 - 8 November 2023
 
 >**Kunshan Xin Place Hotel, Suzhou, China**
 >
@@ -303,7 +299,7 @@ Leadership presentation,</p>
 </tbody>
 </table>
 
-## 9-10 November 2023 - Future Geoscience Information Standards Forum
+## Future Geoscience Information Standards Forum - 9 - 10 November 2023
 
 >**Kunshan Xin Place Hotel, Suzhou, China**
 >
