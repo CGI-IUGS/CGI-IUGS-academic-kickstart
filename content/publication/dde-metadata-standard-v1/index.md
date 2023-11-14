@@ -22,7 +22,7 @@ publication_short: ""
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "This standard defines the information content and XML serialization for metadata descriptions of geoscience information resources supporting the DDE program. It provides information about the identification, quality,contents, spatial reference, lineage, and distribution of the data.  This standard applies to the description ofgeoscience data resources including a  variety of geoscientific disciplinary spatial and non-spatial data, toensure they are Findable,  Accessible and with sufficient documentation to make them Reusable. The scope of DDE Geosciences Information metadata is defined to include the resource types listed in the resourceType codelist. See the ResourceTypeCode <<CodeList>> in Annex A. Conformance with this standard will ensurethat DDE metadata are i nteroperable, facilitating metadata searching, h  arvesting and sharing."
 
 tags: []
 categories: []
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: /docs/standards/dde_geoscience_information_metadata_standard_release_20231107.pdfCGI_annual_report_2022.pdf
+url_pdf: /docs/standards/dde_geoscience_information_metadata_standard_release_20231107.pdf
 url_code:
 url_dataset:
 url_poster:
