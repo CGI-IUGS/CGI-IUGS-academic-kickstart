@@ -1,27 +1,26 @@
 ---
 # Display name
-title: "Mickaël Beaufils"
+title: "Lesego P. Peter"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "mickael-beaufils"
+- "lesego-peter "
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: "Data Architect"
+role: "Director of Information Delivery"
 
 # Organizations/Affiliations
 organizations:
-- name: "BRGM France"
-  url: "https://www.brgm.fr/en"
+- name: "Botswana Geoscience Institute"
+  url: "https://bh.bgi.org.bw/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 # List each interest with a dash
-
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -30,8 +29,8 @@ bio:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:M.Beaufils@brgm.fr"  # For a direct email link, use "mailto:test@example.org".
-
+  link: "mailto:peterl@bgi.org.bw"  # For a direct email link, use "mailto:test@example.org".
+  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -46,3 +45,4 @@ email: ""
 user_groups:
 - Member
 ---
+
