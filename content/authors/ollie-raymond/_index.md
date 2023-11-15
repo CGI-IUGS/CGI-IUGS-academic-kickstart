@@ -44,8 +44,8 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups: 
-- Observer
+# user_groups: 
+# - Observer
 ---
 Ollie Raymond has been involved in compiling and managing digital geological maps and databases at Geoscience Australia (GA) for over 20 years. He is currently leader of GA’s minerals and petroleum data management team, and is custodian of GA’s national geological databases. Ollie’s initial experience at GA was in regional geological mapping, focussing on mineralising systems. Prior to joining GA, Ollie was a mine and exploration geologist at the Mt Isa province in north Queensland. He is a graduate of the Australian National University (BSc) and the University of Tasmania (MSc) in economic geology.
 

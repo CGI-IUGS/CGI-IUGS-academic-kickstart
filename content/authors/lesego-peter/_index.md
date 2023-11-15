@@ -1,21 +1,21 @@
 ---
 # Display name
-title: "Jasna Šinigoj"
+title: "Lesego P. Peter"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "jasna-sinigoj"
+- "lesego-peter "
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: "Head of Geological Information Centre"
+role: "Director of Information Delivery"
 
 # Organizations/Affiliations
 organizations:
-- name: "Geological Survey of Slovenia"
-  url: "https://www.geo-zs.si/index.php/en/"
+- name: "Botswana Geoscience Institute"
+  url: "https://bh.bgi.org.bw/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -29,7 +29,7 @@ bio:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:jasna.sinigoj@geo-zs.si"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:peterl@bgi.org.bw"  # For a direct email link, use "mailto:test@example.org".
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
