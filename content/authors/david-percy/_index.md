@@ -43,8 +43,8 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Observer
+# user_groups:
+# - Observer
 
 ---
 David Percy has been the Geospatial Data Manager for Portland State University’s Geology Department since 1998. Before that, he spent 15 years as a database manager and programmer in the field of medical research. He retrained as a geologist in order to use his skills in the field of Earth Science. Since 1999 he has taught technology courses related to GIS, including GIS for the Natural Sciences, GIS Programming and Web GIS at the university. He also teaches high school teachers to use GIS in their science courses, and mentors high school students.
