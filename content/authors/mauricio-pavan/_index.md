@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Head of Geology and Mineral Resources, Sao Paulo Regional Office 
+role: Executive Coordinator at the Department of Geology of the Geological Survey of Brazil
 
 # Organizations/Affiliations
 organizations:
