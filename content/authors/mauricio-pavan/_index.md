@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Head of Geology and Mineral Resources, Sao Paulo Regional Office 
+role: Executive Coordinator at the Department of Geology of the Geological Survey of Brazil 
 
 # Organizations/Affiliations
 organizations:
@@ -37,8 +37,7 @@ email: ""
 user_groups:
 - Member
 ---
-
-Geologist with more than 15 years of experience, working with geological mapping and research of mineral resources. Has a DSc in metamorphic petrology, focusing on thermodynamic modeling in migmatites. At the Geological Survey of Brazil is the Head of Geology and Mineral Resources in the Regional Office of the Sao Paulo state and is also international affairs consultant for the Directory of Geology and Mineral Resources.
+Geologist with more than 15 years of experience, working with geological mapping and research of mineral resources. Has a DSc in metamorphic petrology, focusing on thermodynamic modeling in migmatites. At the Geological Survey of Brazil he is Executive Coordinator at the Department of Geology and is also international affairs consultant for the Directory of Geology and Mineral Resources.
 
 Contact Details
 ===============
@@ -49,4 +48,3 @@ São Paulo Superintendence - SUREG/SP
 Rua Costa, 55 - Cerqueira César
 São Paulo - SP - Brazil
 CEP: 01304-010
-

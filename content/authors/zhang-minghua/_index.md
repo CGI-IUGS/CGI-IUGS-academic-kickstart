@@ -44,15 +44,15 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Co-Secretary General
-- 
+- Secretary General
+-
 ---
 Dr Zhang Minghua is Director of Geoinformation and Engineering at the Development Research Center of the China Geological Survey, and has been Guest Professor of the China University of Geosciences, Beijing since 2004. Zhang has a MSc and PhD from the China University of Geosciences, Beijing and has conducted post-doctoral research in GIS in geological exploration at the Beijing University of Science and Technology. Zhang also previously worked at the Institute of Geophysical Exploration, Ministry of Metallurgy, and the Chinese Academy of Geoexploration. Zhang has been project leader and a key researcher of Chinese national geoinformation projects since 2000, including geophysical and geochemical exploration software development, CCOP geoinformation metadata standards, CCOP/ASEAN geodata processing, and is currently the leader of China’s participation in OneGeology.
 
 Zhang is also a senior member of several Chinese professional organisations, including council member of the Chinese Geophysical Society, Deputy Secretary General of Exploration Geophysics Committee of the Geological Society of China, Geoinformation coordinator of China to CCOP, and council member of the Geophysical and Geochemical Standard Committee of the Chinese Ministry of Land and Resources.
 
 Contact details
-================
+===============
 
 Dr Zhang Minghua
 
