@@ -3,7 +3,7 @@
 
 title: "Newsletter Issue 9"
 subtitle: "December 2023"
-summary: "Welcome to Edition #8 of the CGI Newsletter. In this edition we report on the progress of the CGI Working Groups and the recent meetings of CGI members."
+summary: "Welcome to Edition #9 of the CGI Newsletter. In this edition we report on the progress of the CGI Working Groups and the recent meetings of CGI members."
 authors: [admin]
 tags: [newsletter]
 categories: [newsletter]
@@ -25,9 +25,10 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["DDEStandards"]
 ---
 # Newsletter | Issue 9 | December 2023
+
 
 
 »[View this newsletter as a PDF](/docs/CGI_newsletter_2023_December.pdf)
