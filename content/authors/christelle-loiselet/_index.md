@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Geologist modeller and 3D Information System
+role: Deputy head, Digital Department for Geosciences 
 
 # Organizations/Affiliations
 organizations:
@@ -45,17 +45,16 @@ email: ""
 user_groups:
 - Member
 ---
-
 Christelle Loiselet currently works at the IT department of the French Geological Survey. Christelle does research in Geology and Geoinformation.
 
 Contact Details
-================
+===============
 
 Geologist modeler, Head of Unit
 
 IT Division
 
-BRGM 
+BRGM
 
 3 Avenue C Guillemin - BP 36009
 
