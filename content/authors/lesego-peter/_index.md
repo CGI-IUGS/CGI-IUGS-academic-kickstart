@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Lesego P. Peter"
+title: "Lesego P. Ramaabya (Former Peter)"
 
 # Username (this should match the folder name and the name on publications)
 authors:
