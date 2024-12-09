@@ -18,7 +18,7 @@ superuser: false
 #   url: "http://www.brgm.fr/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+# bio: 
 
 # List each interest with a dash
 
