@@ -43,7 +43,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Member
+- Councillor
 ---
 Christelle Loiselet currently works at the IT department of the French Geological Survey. Christelle does research in Geology and Geoinformation.
 

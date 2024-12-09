@@ -59,7 +59,7 @@ email: "eddlewis85@gmail.com"
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Website Admin
-- Member
+- Councillor
 ---
 
 Edd Lewis is the Standards Lead at the British Geological Survey, with responsibility of improving the organisation and our partners data provision by using geospatial data standards to better align with FAIR data principles (& hopefully driving economic growth through improved data accessibility…).

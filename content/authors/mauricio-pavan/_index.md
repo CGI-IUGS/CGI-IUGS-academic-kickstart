@@ -35,7 +35,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Member
+- Councillor
 ---
 Geologist with more than 15 years of experience, working with geological mapping and research of mineral resources. Has a DSc in metamorphic petrology, focusing on thermodynamic modeling in migmatites. At the Geological Survey of Brazil he is Executive Coordinator at the Department of Geology and is also international affairs consultant for the Directory of Geology and Mineral Resources.
 

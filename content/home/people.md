@@ -14,11 +14,11 @@ subtitle = ""
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups = ["Chair",
-                 "Secretary General",
+                 "Co-Secretary General",
                  "Treasurer",
-                 "Member",
-                 "Past Chair",
-                 "Website Admin"]
+                 "Councillor",
+                 "Website Admin",
+                 "Past Chair"]
 
 [design]
   # Show user's social networking links? (true/false)

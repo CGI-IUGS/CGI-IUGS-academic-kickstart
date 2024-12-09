@@ -44,7 +44,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Observer
+- Past Chair
 
 ---
 François Robida is the Deputy Head of Division, Information Systems and Technologies Division. Mining engineer and geostatistician, and has 25 years of experience in computer science applications to earth sciences with BRGM (French Geological Survey). Following his first work in mining geostatistics, he has been in charge of the design and development of software and programs related to all aspects of geology, and especially to 3D modelling. He was then been responsible for the BRGM software group, a team co-ordinating the development and marketing of software developed by BRGM. In his current position, he is in charge of the R&D and of the European projects in the domain of Information Systems for BRGM.
