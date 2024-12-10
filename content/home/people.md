@@ -18,7 +18,7 @@ subtitle = ""
                  "Treasurer",
                  "Councillor",
                  "Website Admin",
-                 "Observer"]
+                 "Past Chair"]
 
 [design]
   # Show user's social networking links? (true/false)
