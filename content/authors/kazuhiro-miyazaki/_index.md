@@ -37,7 +37,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Councillor
+# - Councillor
 ---
 Kazuhiro Miyazaki holds Ph.D. in Geology. He is a deputy director of the Geology and Geoinformation Research Institute, Geological Survey of Japan (GSJ), AIST. He is also an associate editor of Island Arc (an international journal of Geological Society of Japan). His research field is metamorphic geology, especially textural evolution of metamorphic rocks using statistical analysis and numerical simulation, and evolution of metamorphic belts using geological mapping and thermal-advection modelling.
 
