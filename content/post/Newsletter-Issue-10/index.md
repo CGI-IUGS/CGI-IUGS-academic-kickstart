@@ -3,7 +3,7 @@
 
 title: "Newsletter Issue 10"
 subtitle: "December 2024"
-summary: "Welcome to Edition #9 of the CGI Newsletter. In this edition we report on the progress of the CGI Working Groups and the recent meetings of CGI members."
+summary: "Welcome to Edition #10 of the CGI Newsletter. In this edition we report on the progress of the CGI Working Groups and the recent meetings of CGI members."
 authors: [admin]
 tags: [newsletter]
 categories: [newsletter]
